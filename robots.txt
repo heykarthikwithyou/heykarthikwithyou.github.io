@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Allow: /content
+Allow: /content/search.html
+Allow: /content/do-you-know-your-brain-is-the-biggest-sex-organ.html
+Allow: /content/having-good-sex-at-any-age-is-it-really-possible.html
+Allow: /content/Sex-Organ.html
+Allow: /content/Sex.html
+Allow: /content/Brain.html
+Allow: /content/Dirty-Talk.html
+Allow: /content/Old.html
+Allow: /content/Intimacy.html
+Allow: /content/Relationship.html
+Allow: /content/site-links.html
+Allow: /content/sitemaps.html
+Allow: /content/privacy-policy.html
+Allow: /content/terms-and-conditions.html
+
+Sitemap: https://sexualhealth.peoplesblog.co.in/content/content-sitemap.xml
+Sitemap: https://sexualhealth.peoplesblog.co.in/content/pages-sitemap.xml
