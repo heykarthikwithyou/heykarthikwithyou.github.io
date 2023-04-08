@@ -193,6 +193,9 @@ footer .footer-vertical-nav.bottom-footer li a {
 .google-ad {
     margin: 15px auto;
 }
+img {
+    border-radius: 5px;
+}
 
 
 
