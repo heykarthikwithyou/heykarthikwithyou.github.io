@@ -11,6 +11,7 @@ Allow: /india.html
 Allow: /health.html
 Allow: /movies.html
 Allow: /entertainment.html
+Allow: /dasara-box-office-collection-nanis-pan-india-movie-crosses-rs-70-crore-mark-on-day-9.html
 Allow: /astronaut-and-cosmonauts-fly-soyuz-crew-ship-to-new-docking-port-on-space-station.html
 Allow: /nasa-webb-image-uranus-rings-moons-8543991.html
 Allow: /nasa-telescope-captures-never-before-seen-details-of-remnant-of-star-that-exploded-340-years-ago-3931329.html
@@ -49,7 +50,6 @@ Allow: /uddhav-thackeray-devendra-fadnavis-take-on-each-other-thane-attack-85406
 Allow: /ncert-textbook-revision-row-kapil-sibal-attacks-pm-modi-govt-indian-history-began-in-2014-2355954-2023-04-05.html
 Allow: /kiccha-sudeep-5-points-on-bjps-star-campaigner-in-karnataka-3922064.html
 Allow: /wrong-step-owaisi-on-parties-moving-supreme-court-over-misuse-of-cbi-ed-101680694362847.html
-Allow: /dasara-box-office-collection-day-3-nanis-film-earns-rs-45-crore-2354605-2023-04-02.html
 Allow: /priyanka-chopra-nmacc-nita-mukesh-ambani-cultural-centre-date-night-with-nick-jonas-includes-an-auto-rickshaw-ride-in-stylish-outfits-see-pics-article-99189856.html
 
 Sitemap: https://news.peoplesblog.co.in/sitemaps.xml
