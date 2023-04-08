@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+Allow: /world.html
+Allow: /kannada.html
+Allow: /english.html
+Allow: /tech.html
+Allow: /sports.html
+Allow: /politics.html
+Allow: /health.html
+Allow: /web-series.html
+Allow: /tv.html
+Allow: /movies.html
+Allow: /entertainment.html
+Allow: /pm-narendra-modi-flags-off-secunderabad-tirupati-vande-bharat-train-travel-time-down-by-3-5-hours-3930737.html
+Allow: /temasek-buys-majority-stake-in-manipal-hospitals.html
+Allow: /behind-rbis-repo-rate-pause-slump-in-consumption-tepid-private-investment-8543258.html
+Allow: /new-chinas-shandong-uss-nimitz-aircraft-carrier-deployed-for-action-as-taiwans-president-us-house-speakers-meet.html
+Allow: /israel-responds-to-rocket-fire-from-lebanon-with-airstrikes-in-gaza-2563062.html
+Allow: /chinas-moral-imperative-who-chief-lashes-at-beijing-over-covid-origin-info-101680827929277.html
+Allow: /india-logs-over-6-000-covid-infections-in-24-hrs-active-cases-cross-28-000-mark-11680841119806.html
+Allow: /former-andhra-pradesh-chief-minister-kiran-kumar-reddy-joins-bjp-he-had-quit-congress-last-month-3928275.html
+Allow: /anil-antony-veteran-congress-leader-ak-antonys-son-to-join-bjp-3925614.html
+Allow: /india-reports-over-4000-covid-cases-in-24-hours-11680668826657.html
+Allow: /uddhav-thackeray-devendra-fadnavis-take-on-each-other-thane-attack-8540602.html
+Allow: /ncert-textbook-revision-row-kapil-sibal-attacks-pm-modi-govt-indian-history-began-in-2014-2355954-2023-04-05.html
+Allow: /kiccha-sudeep-5-points-on-bjps-star-campaigner-in-karnataka-3922064.html
+Allow: /wrong-step-owaisi-on-parties-moving-supreme-court-over-misuse-of-cbi-ed-101680694362847.html
+Allow: /dasara-box-office-collection-day-3-nanis-film-earns-rs-45-crore-2354605-2023-04-02.html
+Allow: /priyanka-chopra-nmacc-nita-mukesh-ambani-cultural-centre-date-night-with-nick-jonas-includes-an-auto-rickshaw-ride-in-stylish-outfits-see-pics-article-99189856.html
+
+Sitemap: https://news.peoplesblog.co.in/sitemaps.xml
+  
