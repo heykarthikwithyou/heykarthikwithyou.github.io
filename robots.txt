@@ -6,6 +6,7 @@ Allow: /english.html
 Allow: /tech.html
 Allow: /sports.html
 Allow: /politics.html
+Allow: /india.html
 Allow: /health.html
 Allow: /web-series.html
 Allow: /tv.html
