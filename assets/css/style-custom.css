@@ -196,6 +196,20 @@ footer .footer-vertical-nav.bottom-footer li a {
 img {
     border-radius: 5px;
 }
+.ss-box {
+    position: fixed;
+    background-color: white;
+    z-index: 1;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    display: flex;
+}
+.ss-box .ss-btn {
+    padding: 8px;
+    font-size: 12px;
+    width: 26px;
+}
 
 
 
@@ -236,6 +250,19 @@ img {
     .home_right_of_carousel > div,
     .prev-next-news {
         display: block;
+    }
+    .ss-box {
+        margin: 15px auto;
+        text-align: center;
+        display: block;
+        position: unset;
+    }
+    .ss-box .ss-btn {
+        padding: 8px;
+        margin: 2px;
+        border-radius: 50%;
+        font-size: 12px;
+        width: 30px;
     }
 
 }
