@@ -53,6 +53,7 @@ p {
     line-clamp: 2;
     -webkit-box-orient: vertical;
     padding-right: 15px;
+    /* text-shadow: -1px 1px 0 #292b2c, 1px 1px 0 #292b2c, 1px -1px 0 #292b2c, -1px -1px 0 #292b2c; */
 }
 .home_right_of_carousel ._title {
     overflow: hidden;

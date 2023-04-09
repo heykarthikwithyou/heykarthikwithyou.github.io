@@ -11,6 +11,15 @@ Allow: /india.html
 Allow: /health.html
 Allow: /movies.html
 Allow: /entertainment.html
+Allow: /aap-ki-adalat-ghulam-nabi-azad-why-was-manmohan-singh-chosen-over-pranab-mukherjee-as-prime-minister-congress-rajat-sharma-latest-2023-04-09-861736.html
+Allow: /warning-sign-in-your-pee-that-could-signal-bladder-cancer.html
+Allow: /120foot-asteroid-zooming-towards-earth-today-at-astonishing-speed-of-50796-kmph-says-nasa-71681022431895.html
+Allow: /priyanshu-rajawat-wins-maiden-bwf-world-tour-super-300-title-at-orleans-masters.html
+Allow: /raveena-tandon-flooded-with-congratulatory-messages-on-her-well-deserved-padma-shri-see-inside.html
+Allow: /google-ceo-sundar-pichai-says-ai-will-be-added-to-search-engine.html
+Allow: /indias-russian-oil-imports-now-double-of-iraq-3932599.html
+Allow: /russiaukraine-war-ukraine-children-returned-from-russia-lived-with-rats-cockroaches-report.html
+Allow: /prime-minister-modi-interacts-with-elephant-whisperers-bomman-bellie-at-theppakadu-elephant-camp-in-the-nilgiris.html
 Allow: /dasara-box-office-collection-nanis-pan-india-movie-crosses-rs-70-crore-mark-on-day-9.html
 Allow: /astronaut-and-cosmonauts-fly-soyuz-crew-ship-to-new-docking-port-on-space-station.html
 Allow: /nasa-webb-image-uranus-rings-moons-8543991.html
