@@ -42,7 +42,7 @@ p {
     padding-right: 15px;
 }
 .owl-carousel .owl-item img {
-    max-width: 330px;
+    /* max-width: 330px; */
     max-height: 180px;
 }
 .owl-carousel .carousel-content h2,
