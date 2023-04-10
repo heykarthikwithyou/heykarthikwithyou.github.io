@@ -26,6 +26,14 @@ p {
 .navbar .navbar-bottom-menu .navbar-nav .nav-item {
     padding: 0 20px;
 }
+.navbar .navbar-bottom-menu .navbar-nav .nav-item.search a {
+    padding-top: 15px;
+}
+.navbar .navbar-bottom-menu .navbar-nav .nav-item.search a i {
+    font-size: 16px;
+    line-height: 0;
+    display: block;
+}
 .navbar .navbar-bottom-menu .navbar-toggler {
     top: 13px;
 }
