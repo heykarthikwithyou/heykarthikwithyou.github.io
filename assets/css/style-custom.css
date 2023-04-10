@@ -242,8 +242,20 @@ ol.breadcrumb {
     margin-top: 15px;
 }
 ol.breadcrumb li,
-ol.breadcrumb li a {
+ol.breadcrumb li a,
+ol.breadcrumb li a:hover {
     color: #212529;
+}
+._category-tile img {
+    height: 150px;
+    width: 100%;
+}
+._category-tile a:hover {
+    color: #212529;
+}
+.category_main_section img {
+    width: 100%;
+    height: 100px;
 }
 
 

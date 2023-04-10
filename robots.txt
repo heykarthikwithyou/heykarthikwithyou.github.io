@@ -1,8 +1,6 @@
 User-agent: *
 Allow: /
 Allow: //category/world.html
-Allow: //category/kannada.html
-Allow: //category/english.html
 Allow: //category/tech.html
 Allow: //category/sports.html
 Allow: //category/science.html
