@@ -9,6 +9,16 @@ Allow: //category/india.html
 Allow: //category/health.html
 Allow: //category/movies.html
 Allow: //category/entertainment.html
+Allow: //news/pawan-kalyan-vakeel-saab-2-venu-sriram-2358004-2023-04-10.html
+Allow: //news/aap-now-national-party-trinamool-sharad-pawars-ncp-cpi-lose-status-3936274.html
+Allow: //news/tamil-nadu-governor-rn-ravi-gives-assent-to-bill-against-online-gambling-10389971.html
+Allow: //news/us-president-biden-says-he-will-run-again-in-2024.html
+Allow: //news/adani-ports-lic-mfs-trim-stakes-gqg-investment-pushes-fpi-holding-to-multi-quarter-high-376811-2023-04-10.html
+Allow: //news/google-pay-accidental-cashback-reward-random-pixel-users-reddit-1594542.html
+Allow: //news/samantha-ruth-prabhu-replies-to-fan-that-asked-how-she-deals-with-multiple-issues-in-life-101681099408107.html
+Allow: //news/nepomniachtchi-vs-ding-live-world-chess-championship-2023-round-2-live-8548142.html
+Allow: //news/nasa-launches-tempo-to-monitor-air-pollution-from-space-111681116600403.html
+Allow: //news/diabetes-tips-how-change-in-blood-sugar-levels-affects-mood-swing-5-ways-to-cope-with-it-5989540.html
 Allow: //news/aap-ki-adalat-ghulam-nabi-azad-why-was-manmohan-singh-chosen-over-pranab-mukherjee-as-prime-minister-congress-rajat-sharma-latest-2023-04-09-861736.html
 Allow: //news/warning-sign-in-your-pee-that-could-signal-bladder-cancer.html
 Allow: //news/120foot-asteroid-zooming-towards-earth-today-at-astonishing-speed-of-50796-kmph-says-nasa-71681022431895.html
