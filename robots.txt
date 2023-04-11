@@ -9,6 +9,10 @@ Allow: //category/india.html
 Allow: //category/health.html
 Allow: //category/movies.html
 Allow: //category/entertainment.html
+Allow: //news/samantha-ruth-prabhu-breaks-silence-on-doing-special-song-in-allu-arjuns-pushpa-2-if-youre-asking-me--article-99404350.html
+Allow: //news/urfi-javed-breaks-limits-of-weirdness-netizens-allege-nudity-under-guise-of-fashion--201439.html
+Allow: //news/taliban-in-afghanistan-news-gender-mixing-is-taliban-bans-families-women-from-restaurants-with-gardens-101681186219527.html
+Allow: //news/india-responds-to-chinese-objections-over-shah-s-arunachal-visit-reject-101681215561089.html
 Allow: //news/pawan-kalyan-vakeel-saab-2-venu-sriram-2358004-2023-04-10.html
 Allow: //news/aap-now-national-party-trinamool-sharad-pawars-ncp-cpi-lose-status-3936274.html
 Allow: //news/tamil-nadu-governor-rn-ravi-gives-assent-to-bill-against-online-gambling-10389971.html
