@@ -73,5 +73,5 @@ Allow: //news/kiccha-sudeep-5-points-on-bjps-star-campaigner-in-karnataka-392206
 Allow: //news/wrong-step-owaisi-on-parties-moving-supreme-court-over-misuse-of-cbi-ed-101680694362847.html
 Allow: //news/priyanka-chopra-nmacc-nita-mukesh-ambani-cultural-centre-date-night-with-nick-jonas-includes-an-auto-rickshaw-ride-in-stylish-outfits-see-pics-article-99189856.html
 
-Sitemap: https://news.peoplesblog.co.in/sitemaps.xml
+Sitemap: https://news.peoplesblog.co.in/sitemap.xml
   
