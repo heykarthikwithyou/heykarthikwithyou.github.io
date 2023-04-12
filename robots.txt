@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /
+Allow: /privacy-policy.html
+Allow: /terms-and-conditions.html
+Allow: /about.html
 Allow: /category/world.html
 Allow: /category/tech.html
 Allow: /category/sports.html
@@ -9,6 +12,12 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/samantha-ruth-prabhu-shares-health-update-down-with-fever-have-lost-my-voice-3941695.html
+Allow: /news/first-human-death-from-h3n8-bird-flu-what-we-know-about-the-virus-101681288925847.html
+Allow: /news/juice-mission-jupiter-moons-ganymede-european-space-ageny-2358939-2023-04-12.html
+Allow: /news/oldest-indian-billionaire-champion-of-education-who-was-keshub-mahindra-123041200280.html
+Allow: /news/nearly-100-killed-at-myanmar-ceremony-military-justifies-deadly-attack-3941561.html
+Allow: /news/explained-what-is-the-amul-versus-kmf-controversy.html
 Allow: /news/samantha-ruth-prabhu-breaks-silence-on-doing-special-song-in-allu-arjuns-pushpa-2-if-youre-asking-me--article-99404350.html
 Allow: /news/urfi-javed-breaks-limits-of-weirdness-netizens-allege-nudity-under-guise-of-fashion--201439.html
 Allow: /news/taliban-in-afghanistan-news-gender-mixing-is-taliban-bans-families-women-from-restaurants-with-gardens-101681186219527.html

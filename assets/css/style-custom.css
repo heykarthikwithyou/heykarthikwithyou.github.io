@@ -284,6 +284,20 @@ input#search-news {
     box-shadow: 0 0 6px 0 #1183d6;
     margin: 15px auto 25px;
 }
+footer p.footer-notes {
+    font-size: 13px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    color: #212529;
+    padding: 20px !important;
+}
+footer p.footer-notes a,
+footer p.footer-notes a:hover {
+    color: #212529;
+}
 
 
 
