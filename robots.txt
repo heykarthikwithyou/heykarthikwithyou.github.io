@@ -12,6 +12,12 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/riteish-deshmukh-genelia-dsouza-marathi-blockbuster-ved-to-stream-on-disney-hotstar-2359628-2023-04-13.html
+Allow: /news/bloody-daddy-teaser-shahid-kapoor-knifes-down-goons-fans-call-him-john-wick-from-flipkart-101681374506246.html
+Allow: /news/scientists-unveil-skinny-donut-black-hole-image-8554800.html
+Allow: /news/managing-madrid-podcast-real-madrid-2-0-chelsea-post-game-champions-league-2022-2023.html
+Allow: /news/british-sas-uks-famed-special-air-service-forces-could-be.html
+Allow: /news/four-jawans-shot-dead-in-bathinda-cantt-shooters-yet-to-be-nabbed-496768.html
 Allow: /news/samantha-ruth-prabhu-shares-health-update-down-with-fever-have-lost-my-voice-3941695.html
 Allow: /news/first-human-death-from-h3n8-bird-flu-what-we-know-about-the-virus-101681288925847.html
 Allow: /news/juice-mission-jupiter-moons-ganymede-european-space-ageny-2358939-2023-04-12.html
