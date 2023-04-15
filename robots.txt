@@ -12,6 +12,9 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/shaakuntalam-box-office-day-1-samantha-ruth-prabhu-better-than-yashoda-earns-rs-5-crore-8557198.html
+Allow: /news/give-us-35-seats-and-mamata-banerjee-will-be-out-amit-shah-in-bengal-3949859.html
+Allow: /news/raigad-bus-accident-8-dead-several-injured-as-bus-from-pune-to-mumbai-falls-into-gorge-say-cops-3949788.html
 Allow: /news/riteish-deshmukh-genelia-dsouza-marathi-blockbuster-ved-to-stream-on-disney-hotstar-2359628-2023-04-13.html
 Allow: /news/bloody-daddy-teaser-shahid-kapoor-knifes-down-goons-fans-call-him-john-wick-from-flipkart-101681374506246.html
 Allow: /news/scientists-unveil-skinny-donut-black-hole-image-8554800.html
