@@ -12,6 +12,12 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/nandini-gupta-19-year-old-rajasthan-miss-india-2023-8558774.html
+Allow: /news/natural-remedies-cure-pcos-symptoms-seven-solutions-try.html
+Allow: /news/nasa-video-shows-ingenuity-mars-helicopter-flying-over-an-alien-desert-3952707.html
+Allow: /news/irctc-has-a-warning-for-all-android-smartphone-users.html
+Allow: /news/germany-ends-nuclear-era-switches-off-last-3-power-reactors-3951886.html
+Allow: /news/atiq-ahmed-shot-dead-updates-atiq-ahmed-brother-ashraf-ahmed-shot-dead-in-prayagraj-3951701.html
 Allow: /news/pawan-kalyans-og-movie-update-shooting-begins-in-mumbai.html
 Allow: /news/shaakuntalam-box-office-day-1-samantha-ruth-prabhu-better-than-yashoda-earns-rs-5-crore-8557198.html
 Allow: /news/give-us-35-seats-and-mamata-banerjee-will-be-out-amit-shah-in-bengal-3949859.html
