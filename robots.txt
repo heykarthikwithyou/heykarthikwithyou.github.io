@@ -12,6 +12,14 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/emma-watson-33-sums-up-her-birthday-album-with-2-special-notes-and-6-stunning-pics-fans-are-thrilled-3952385.html
+Allow: /news/radhika-apte-says-she-has-worked-on-films-where-scripts-are-changed-last-minute-it-s-not-in-my-control-101681657334464.html
+Allow: /news/spacex-starship-super-heavy-rocket-fully-stacked-integrated-at-starbase-texas-ahead-of-first-orbital-flight-test-elon-musk-in-pics-1596041.html
+Allow: /news/gm-pravin-thipsay-writes-in-game-6-ding-liren-won-battle-of-errors-against-ian-nepomniachtchi-8559984.html
+Allow: /news/5-unusual-vehicles-return-gta-6.html
+Allow: /news/india-may-buy-russian-crude-past-cap-if-cut-by-opec-boosts-costs-what-fm-nirmala-sitharaman-said-11681644430283.html
+Allow: /news/us-mass-shooting-at-birthday-party-in-dadeville-kills-several-teenagers-alabama-death-toll-live-updates-joe-biden-reaction-gun-violence-2023-04-16-863982.html
+Allow: /news/cbi-arrests-ys-bhaskar-reddy-uncle-of-andhra-pradesh-chief-minister-ys-jagan-mohan-reddy-in-former-mp-vivekananda-reddy-murder-case-3952029.html
 Allow: /news/nandini-gupta-19-year-old-rajasthan-miss-india-2023-8558774.html
 Allow: /news/natural-remedies-cure-pcos-symptoms-seven-solutions-try.html
 Allow: /news/nasa-video-shows-ingenuity-mars-helicopter-flying-over-an-alien-desert-3952707.html
