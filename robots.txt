@@ -12,6 +12,13 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/samantha-ruth-prabhu-quotes-a-line-from-bhagavad-gita-amid-shaakuntalam-box-office-failure-as-she-shares-a-new-pic-101681805310056.html
+Allow: /news/world-liver-day-2023-symptoms-of-fatty-liver-in-kids-tips-to-prevent-the-condition-101681816412926.html
+Allow: /news/2023-04-18-retired-nasa-satellite-rhessi-to-crash-on-earth-on-april-19.html
+Allow: /news/indian-hockey-chennai-asian-champions-trophy-2023-pakistan-invited.html
+Allow: /news/technology-alphabet-shares-fall-on-report-samsung-may-dump-google-search-for-bing-3052412.html
+Allow: /news/please-stay-at-home-indian-embassy-on-looting-incidents-in-sudan-101681815415126.html
+Allow: /news/supreme-court-same-sex-marriage-hearing-live-updates-8561754.html
 Allow: /news/emma-watson-33-sums-up-her-birthday-album-with-2-special-notes-and-6-stunning-pics-fans-are-thrilled-3952385.html
 Allow: /news/radhika-apte-says-she-has-worked-on-films-where-scripts-are-changed-last-minute-it-s-not-in-my-control-101681657334464.html
 Allow: /news/spacex-starship-super-heavy-rocket-fully-stacked-integrated-at-starbase-texas-ahead-of-first-orbital-flight-test-elon-musk-in-pics-1596041.html
