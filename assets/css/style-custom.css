@@ -34,6 +34,9 @@ p {
     line-height: 0;
     display: block;
 }
+.navbar-bottom-menu .navbar-nav .nav-item:last-child {
+    display: block;
+}
 .navbar .navbar-bottom-menu .navbar-toggler {
     top: 13px;
 }
