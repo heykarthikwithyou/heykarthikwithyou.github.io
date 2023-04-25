@@ -12,6 +12,15 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/filmfare-awards-2023-nominations-alia-bhatt-tabu-kareena-kapoor-in-race-for-best-actress-3976685.html
+Allow: /news/malaika-arora-s-bombshell-avatar-in-hot-pink-bralette-and-skirt-serves-perfect-summer-wedding-guest-look-see-pics-101682396067926.html
+Allow: /news/researchers-analyse-the-rapid-disappearing-of-stable-glacier-in-greenland.html
+Allow: /news/how-jeff-bezos-amazon-beat-large-retailers-by-adopting-the-internet-in-early-1990s.html
+Allow: /news/indias-gdp-aim-faces-risks-from-a-little-boy-cartels-strength-and-big-economies.html
+Allow: /news/indonesia-sumatra-island-hit-by-73-earthquake-tsunami-warning-issued-585824.html
+Allow: /news/difficult-to-engage-with-neighbour-who-s-jaishankar-on-pakistan-3976800.html
+Allow: /news/pm-modi-flags-off-vande-bharat-express-in-kerala-the-states-first-3976878.html
+Allow: /news/live-indian-wrestlers-protest-latest-updates-wfi-brij-bhushan-sharan-jantar-mantar-vinesh-phogat-bajrang-punia-7630963.html
 Allow: /news/rajamouli-and-bhansali-in-hollywood-way-128804.html
 Allow: /news/taylor-swift-shows-loser-sign-to-lover-version-of-herself-after-recent-breakup-101682231259293.html
 Allow: /news/dream-girl-2-gets-a-new-release-date.html
