@@ -12,6 +12,9 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/guardians-of-the-galaxy-director-james-gunn-expresses-his-desire-to-work-with-rrr-star-jr-ntr.html
+Allow: /news/woman-jumps-off-moving-rapido-bike-taxi-in-bengaluru-to-escape-harassment-rider-arrested.html
+Allow: /news/chhattisgarh-policemen-killed-maoist-attack-bomb-blast-dantewada-1598151.html
 Allow: /news/samantha-ruth-prabhu-shares-throwback-picture-from-her-sweet-16-and-fans-just-cant-stop-gushing_196066.html
 Allow: /news/zeenat-aman-recalls-how-she-bagged-hare-rama-hare-krishna-calls-dev-anand-a-star-maker-see-pic.html
 Allow: /news/contaminated-syrups-manufactured-in-india-reported-in-whos-western-pacific-region.html
