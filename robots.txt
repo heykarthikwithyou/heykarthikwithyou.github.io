@@ -12,6 +12,17 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/samantha-ruth-prabhu-shares-throwback-picture-from-her-sweet-16-and-fans-just-cant-stop-gushing_196066.html
+Allow: /news/zeenat-aman-recalls-how-she-bagged-hare-rama-hare-krishna-calls-dev-anand-a-star-maker-see-pic.html
+Allow: /news/contaminated-syrups-manufactured-in-india-reported-in-whos-western-pacific-region.html
+Allow: /news/japan-lunar-lander-likely-crashed-on-moon-company-3979825.html
+Allow: /news/bai-to-hold-2022-asian-games-trials-from-may-4-hs-prannoy-and-pv-sindhu-make-cut-through-ranking.html
+Allow: /news/s-jaishankar-visits-hindu-temple-in-panama-interacts-with-indian-community-3979504.html
+Allow: /news/chinese-defence-minister-to-visit-india-this-week-to-attend-sco-meet-3977949.html
+Allow: /news/taliban-kill-isis-mastermind-2021-kabul-airport-attack-says-us-101682465093135.html
+Allow: /news/supreme-court-verdict-revives-ban-on-tobacco-items-in-tamil-nadu-3979872.html
+Allow: /news/when-i-raised-my-voice-siddaramaiah-s-swipe-at-centre-amid-operation-kaveri-from-sudan-101682469792788.html
+Allow: /news/operation-kaveri-first-batch-of-indians-leave-conflict-hit-sudan-for-jeddah-aboard-ins-sumedha-7635715.html
 Allow: /news/filmfare-awards-2023-nominations-alia-bhatt-tabu-kareena-kapoor-in-race-for-best-actress-3976685.html
 Allow: /news/malaika-arora-s-bombshell-avatar-in-hot-pink-bralette-and-skirt-serves-perfect-summer-wedding-guest-look-see-pics-101682396067926.html
 Allow: /news/researchers-analyse-the-rapid-disappearing-of-stable-glacier-in-greenland.html
