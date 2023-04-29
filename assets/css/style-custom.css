@@ -58,6 +58,9 @@ p {
 }
 #main-banner-carousel .carousel-content-wrapper .carousel-content {
     left: 12px;
+    padding: 6px 10px;
+    background-color: #00000052;
+    border-radius: 5px;
 }
 .owl-carousel .owl-item img {
     /* max-width: 330px; */
@@ -331,6 +334,7 @@ footer p.footer-notes a:hover {
     }
     #main-banner-carousel .carousel-content-wrapper .carousel-content {
         left: 40px;
+        padding: 8px 16px;
     }
     .owl-carousel .owl-item img {
         max-width: 730px;
