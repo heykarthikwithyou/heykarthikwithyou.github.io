@@ -12,6 +12,11 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/texas-us-shooting-neighbors-asked-man-to-stop-firing-rifle-outside-he-then-shot-5-people-in-texas-101682812900047.html
+Allow: /news/government-office-set-on-fire-night-curfew-in-manipurs-churachandpur-3991564.html
+Allow: /news/india-meteorological-department-to-release-heat-hazard-scores-for-all-states-to-aid-in-heatwave-management-101682791504305.html
+Allow: /news/punjab-ludhiana-factory-gas-leak-sua-road-near-sherpur-chowk-101682827169566.html
+Allow: /news/galwan-heros-wife-becomes-army-officer-posted-to-eastern-ladakh.html
 Allow: /news/adipurush-presenting-kriti-sanon-as-janaki-in-new-posters-3989874.html
 Allow: /news/study-finds-stress-induced-ageing-to-be-real-but-reversible-973884.html
 Allow: /news/209204.html
