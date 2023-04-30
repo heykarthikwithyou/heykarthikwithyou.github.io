@@ -12,6 +12,9 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/abhilash-tomy-conquers-the-high-seas-with-a-titanium-spine-and-a-gritty-heart.html
+Allow: /news/border-unlikely-to-cool-down-as-india-reads-china-the-riot-act-10499461.html
+Allow: /news/parents-in-pakistan-putting-padlocks-on-daughters-graves-to-avoid-rape-report-article-99879042.html
 Allow: /news/texas-us-shooting-neighbors-asked-man-to-stop-firing-rifle-outside-he-then-shot-5-people-in-texas-101682812900047.html
 Allow: /news/government-office-set-on-fire-night-curfew-in-manipurs-churachandpur-3991564.html
 Allow: /news/india-meteorological-department-to-release-heat-hazard-scores-for-all-states-to-aid-in-heatwave-management-101682791504305.html
