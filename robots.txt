@@ -12,6 +12,9 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/no-one-has-a-knife-like-that-arnold-schwarzenegger-trolled-sylvester-stallone-for-rambo-knife-that-was-built-like-a-sword-getting-carried-away-while-competing-with-him.html
+Allow: /news/miss-shetty-mr-polishetty-teaser-trendy-comedy-128920.html
+Allow: /news/nasa-says-a-dangerous-rock-is-speeding-towards-earth.html
 Allow: /news/abhilash-tomy-conquers-the-high-seas-with-a-titanium-spine-and-a-gritty-heart.html
 Allow: /news/border-unlikely-to-cool-down-as-india-reads-china-the-riot-act-10499461.html
 Allow: /news/parents-in-pakistan-putting-padlocks-on-daughters-graves-to-avoid-rape-report-article-99879042.html
