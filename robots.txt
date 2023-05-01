@@ -12,6 +12,16 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/vidaamuyarchi-ajith-kumars-ak62-title-unveiled-on-his-52nd-birthday.html
+Allow: /news/moon-mission-oxygen-airless-artemis-ii-astronauts-nasa-2366961-2023-05-01.html
+Allow: /news/yashasvi-jaiswal-rr-ipl-selling-pani-puris-creating-new-ipl-records-10506751.html
+Allow: /news/the-godfather-of-ai-leaves-google-and-warns-of-danger-ahead-8585819.html
+Allow: /news/new-rule-for-incoming-calling-and-messages-starting-today-brings-relief-from-spam-calls-2366934-2023-05-01.html
+Allow: /news/india-tries-to-ensure-ties-across-the-world-except-with-s-jaishankar-3993569.html
+Allow: /news/erdogan-says-turkey-has-killed-suspected-isil-leader.html
+Allow: /news/india-china-poles-apart-on-lac-situation-chinese-scholar-after-rajnath-liu-sco-meet-in-delhi.html
+Allow: /news/gst-collections-hit-new-all-time-high-of-rs-1-87-lakh-crore-in-april-10506611.html
+Allow: /news/supreme-court-says-it-can-dissolve-marriage-on-ground-of-irretrievable-breakdown-can-do-away-with-6-month-waiting-period-for-divorce-3994110.html
 Allow: /news/no-one-has-a-knife-like-that-arnold-schwarzenegger-trolled-sylvester-stallone-for-rambo-knife-that-was-built-like-a-sword-getting-carried-away-while-competing-with-him.html
 Allow: /news/miss-shetty-mr-polishetty-teaser-trendy-comedy-128920.html
 Allow: /news/nasa-says-a-dangerous-rock-is-speeding-towards-earth.html

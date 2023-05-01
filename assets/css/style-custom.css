@@ -343,7 +343,8 @@ footer p.footer-notes a:hover {
         border-bottom: 1px solid #dbdbdb;
     }
     #main-banner-carousel .carousel-content-wrapper .carousel-content {
-        left: 40px;
+        left: 20px;
+        bottom: 20px;
         padding: 8px 16px;
     }
     .owl-carousel .owl-item img {
