@@ -12,6 +12,15 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/guardians-of-the-galaxy-volume-3-advance-bookings-marvels-film-sells-over-20000-tickets-in-national-chains-1219348.html
+Allow: /news/the-flash-movie-budget-dc-superhero-expensive.html
+Allow: /news/why-does-your-life-flash-before-your-eyes-near-death.html
+Allow: /news/automatically-thin-transistors-make-denser-computer-chips.html
+Allow: /news/fifa-threatens-europe-with-womens-world-cup-broadcast-blackout.html
+Allow: /news/cashstrapped-go-first-airways-suspends-flights-for-may-3-4-101683022996775.html
+Allow: /news/no-plans-to-add-new-members-to-quad-grouping-now-us-white-house.html
+Allow: /news/australia-announces-sweeping-crackdown-on-e-cigarettes-3996782.html
+Allow: /news/the-kerala-story-islamic-state-syria-32000-women-vipul-shah-shashi-tharoor-pinarayi-vijayan-101682990800269.html
 Allow: /news/vidaamuyarchi-ajith-kumars-ak62-title-unveiled-on-his-52nd-birthday.html
 Allow: /news/moon-mission-oxygen-airless-artemis-ii-astronauts-nasa-2366961-2023-05-01.html
 Allow: /news/yashasvi-jaiswal-rr-ipl-selling-pani-puris-creating-new-ipl-records-10506751.html
