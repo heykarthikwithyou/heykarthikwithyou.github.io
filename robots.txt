@@ -12,6 +12,8 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/karnataka-election-plot-to-kill-kharge-claim-bjp-candidate-says-surprised-laughed-a-lot.html
+Allow: /news/terorists-responsible-for-killing-soldiers-in-rajouri-will-be-hunted-down-rajnath.html
 Allow: /news/kapil-sibal-ec-pm-narendra-modi-terrorism-karnataka-election-congress.html
 Allow: /news/naga-chaitanya-reacts-for-1st-time-to-divorce-from-samantha-says-involving-third-party-is-worse.html
 Allow: /news/jailer-rajinikanths-film-gets-a-release-date.html
