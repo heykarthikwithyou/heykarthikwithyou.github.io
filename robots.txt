@@ -12,6 +12,7 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/kapil-sibal-ec-pm-narendra-modi-terrorism-karnataka-election-congress.html
 Allow: /news/naga-chaitanya-reacts-for-1st-time-to-divorce-from-samantha-says-involving-third-party-is-worse.html
 Allow: /news/jailer-rajinikanths-film-gets-a-release-date.html
 Allow: /news/what-happens-when-uric-acid-increases-in-your-body-read-on-to-find-out.html
