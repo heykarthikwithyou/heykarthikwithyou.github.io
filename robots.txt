@@ -12,6 +12,17 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/news-iga-swiatek-drags-madrid-open-scheduling-runner-up-finish.html
+Allow: /news/vignesh-shivan-shares-pics-as-he-watches-ipl-match-with-nayanthara-in-chennai-anirudh-joins-them-see-posts.html
+Allow: /news/with-national-quantum-mission-launch-india-entering-race-for-advanced-computing-in-big-way.html
+Allow: /news/we-asked-ai-eren-s-actions-justified-attack-titan-answer-was-unexpected.html
+Allow: /news/rising-investments-sign-of-changing-perceptions-of-telangana-says-ktr.html
+Allow: /news/warren-buffett-says-berkshire-is-cautious-on-banking-sector.html
+Allow: /news/attack-on-kyiv-ukraine-shoots-down-hypersonic-russian-missile-with-us-air-defence-system.html
+Allow: /news/india-steps-up-rupees-internationalisation-for-sri-lankas-economic-recovery.html
+Allow: /news/day-after-jaishankar-bilawal-war-of-words-in-goa-china-stands-by-pakistan-on-kashmir.html
+Allow: /news/covid-19-no-longer-a-global-health-emergency-who.html
+Allow: /news/king-charles-iii-crowned-with-regal-pomp-cheers-and-shrugs-in-front-of-world-leaders.html
 Allow: /news/karnataka-election-plot-to-kill-kharge-claim-bjp-candidate-says-surprised-laughed-a-lot.html
 Allow: /news/terorists-responsible-for-killing-soldiers-in-rajouri-will-be-hunted-down-rajnath.html
 Allow: /news/kapil-sibal-ec-pm-narendra-modi-terrorism-karnataka-election-congress.html
