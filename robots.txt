@@ -12,6 +12,10 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/27-year-old-indian-woman-among-9-killed-in-mass-shooting-at-us-mall.html
+Allow: /news/youtuber-agastay-chauhan-dies-in-horrific-bike-crash-while-trying-to-reach-300-kmph-speed.html
+Allow: /news/cyclone-mocha-to-form-this-week-dump-intense-rains-over-andaman.html
+Allow: /news/sc-asks-centre-state-to-up-security-relief-and-rehabilitation-of-those-hit-by-manipur-violence.html
 Allow: /news/samantha-ruth-prabhu-reminds-fan-her-upcoming-series-citadel-is-not-a-remake-of-priyanka-chopras-show.html
 Allow: /news/explained-mandatory-recall-failed-medicines-law-cdsco.html
 Allow: /news/isro-to-launch-chandrayaan-3-and-aditya-l1-india-s-moon-and-sun-missions-in-july-official-confirms-development.html
