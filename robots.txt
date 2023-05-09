@@ -12,6 +12,15 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/ajith-kumar-returns-to-chennai-after-completing-1st-leg-of-his-bike-tour.html
+Allow: /news/aamir-khan-in-nepal-to-attend-10-day-vipassana-meditation-programme.html
+Allow: /news/felt-uncomfortable-sharing-or-celebrating-afreen-afreen-song-lisa-ray.html
+Allow: /news/malaika-arora-red-cut-out-dress-wows-the-internet-fans-praise-her-for-proudly-showing-her-stretch.html
+Allow: /news/uorfi-javed-wears-bizarre-top-made-with-chewing-gum.html
+Allow: /news/priyanka-chopra-says-she-fell-hard-at-recent-event-but-kind-paparazzi-put-down-cameras-i-ve-never-seen-it-in-23-years.html
+Allow: /news/sobhita-dhulipala-addresses-those-naga-chaitanya-dating-rumours-dont-feel-the-urge-to-clarify.html
+Allow: /news/samantha-ruth-prabhu-adds-another-feather-to-her-cap-with-the-purchase-of-a-luxurious-duplex-flat-in-hyderabad.html
+Allow: /news/adipurush-trailer-live-updates-prabhas-kriti-sanon-om-raut-saif-ali-khan-twitter-review.html
 Allow: /news/27-year-old-indian-woman-among-9-killed-in-mass-shooting-at-us-mall.html
 Allow: /news/youtuber-agastay-chauhan-dies-in-horrific-bike-crash-while-trying-to-reach-300-kmph-speed.html
 Allow: /news/cyclone-mocha-to-form-this-week-dump-intense-rains-over-andaman.html
