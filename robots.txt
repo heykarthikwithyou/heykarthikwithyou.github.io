@@ -12,6 +12,17 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/china-pakistan-political-crisis.html
+Allow: /news/bilateral-troubles-at-a-multilateral-forum.html
+Allow: /news/new-ukranian-military-expert-debunks.html
+Allow: /news/beijing-flexes-muscle-in-south-china-sea-amid-india-asean-maritime-exercises.html
+Allow: /news/biden-mccarthy-start-debt-ceiling-talks-as-clock-ticks-to-default.html
+Allow: /news/putin-vows-victory-in-ukraine-at-world-war-ii-parade.html
+Allow: /news/sri-lanka-supreme-court-clears-way-to-decriminalise-homosexuality.html
+Allow: /news/woman-who-wrote-book-on-grief-after-husbands-death-has-been-charged-with-his-murder.html
+Allow: /news/donald-trumps-first-response-after-e-jean-carroll-sex-abuse-verdict-disgrace.html
+Allow: /news/car-stopped-on-delhi-road-driver-beaten-dash-cam-video-leads-to-arrests.html
+Allow: /news/kerala-doctor-stabbed-to-death-by-man-in-custody-high-court-terms-it-failure-of-police.html
 Allow: /news/ajith-kumar-returns-to-chennai-after-completing-1st-leg-of-his-bike-tour.html
 Allow: /news/aamir-khan-in-nepal-to-attend-10-day-vipassana-meditation-programme.html
 Allow: /news/felt-uncomfortable-sharing-or-celebrating-afreen-afreen-song-lisa-ray.html
