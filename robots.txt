@@ -12,6 +12,13 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/after-donald-trumps-civil-rape-verdict-what-lies-next-for-ex-us-president.html
+Allow: /news/finland-pm-sanna-marin-files-for-divorce.html
+Allow: /news/india-canada-agree-to-increase-discussions-on-movement-of-skilled-professionals-students.html
+Allow: /news/technology-day-pm-narendra-modi-to-lay-foundation-of-gravity-observatory-ligo-india-tomorrow.html
+Allow: /news/china-shields-pakistan-based-terrorists-again-blocks-indias-move-to-blacklist-jems-abdul-rauf-azhar-at-unsc.html
+Allow: /news/sc-reserves-verdict-on-pleas-seeking-legal-recognition-for-same-sex-marriage.html
+Allow: /news/how-eam-jaishankar-got-one-up-on-paks-bilawal-zardari-at-goa.html
 Allow: /news/inside-vijay-deverakondas-birthday-celebration-with-co-star-samantha-ruth-prabhu-on-the-sets-of-kushi.html
 Allow: /news/kantara-2-script-finalised-official-announcement-soon.html
 Allow: /news/adah-sharma-lead-role-the-kerala-story-character-physically-emotionally-scarred.html
