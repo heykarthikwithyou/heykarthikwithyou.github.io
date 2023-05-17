@@ -12,6 +12,14 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/common-title-locked-for-ntr30.html
+Allow: /news/new-party-decimates-military-backed-coalition-in-thailand.html
+Allow: /news/g7-meet-modi-visit-to-hiroshima-first-by-indian-pm-after-pokhran-n-tests.html
+Allow: /news/good-to-see-you-imran-khan-pakistan-chief-justice-bandial-clarifies-on-criticism.html
+Allow: /news/in-first-speech-after-attack-salman-rushdie-warns-freedom-of-expression-in-west-under-threat.html
+Allow: /news/india-us-religious-freedom-report-flawed-motivated-bjp-28-times-minority-communities.html
+Allow: /news/turkey-elections-recep-tayyip-erdogan-falls-short-of-outright-victory-round-2-next-top-10-updates-on-turkey-polls.html
+Allow: /news/australia-pm-quad-meeting-sydney.html
 Allow: /news/manoj-bajpayee-no-one-worthy-enough-boycott-ban-him-bandaa-asaram-bapu-legal-notice.html
 Allow: /news/real-time-traffic-weather-updates-google-maps-immersive-view-feature.html
 Allow: /news/how-to-access-google-s-ai-search-and-bard-chatbot-know-here-now.html
