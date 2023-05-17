@@ -12,6 +12,10 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/venom-3-chiwetel-ejiofor-tom-hardy.html
+Allow: /news/johnny-depp-gets-emotional-as-his-film-receives-standing-ovation-at-cannes.html
+Allow: /news/apple-previews-accessibility-features-for-people-with-disabilities.html
+Allow: /news/quad-to-take-place-in-hiroshima-focus-on-capacity-building-indopacific.html
 Allow: /news/quick-citizenship-for-foreigners-who-fight-for-russia-in-ukraine-vladimir-putins.html
 Allow: /news/kami-rita-sherpa-nepali-climber-makes-record-climbs-mount-everest-for-27th-time.html
 Allow: /news/common-title-locked-for-ntr30.html
