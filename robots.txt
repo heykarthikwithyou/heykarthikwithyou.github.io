@@ -12,6 +12,8 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/quick-citizenship-for-foreigners-who-fight-for-russia-in-ukraine-vladimir-putins.html
+Allow: /news/kami-rita-sherpa-nepali-climber-makes-record-climbs-mount-everest-for-27th-time.html
 Allow: /news/common-title-locked-for-ntr30.html
 Allow: /news/new-party-decimates-military-backed-coalition-in-thailand.html
 Allow: /news/g7-meet-modi-visit-to-hiroshima-first-by-indian-pm-after-pokhran-n-tests.html
