@@ -12,6 +12,7 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/karnataka-election-2023-dk-shivakumar-siddaramaiah-behind-dk-shivakumar-accepting-no-2-spot-sonia-gandhis-big-role.html
 Allow: /news/venom-3-chiwetel-ejiofor-tom-hardy.html
 Allow: /news/johnny-depp-gets-emotional-as-his-film-receives-standing-ovation-at-cannes.html
 Allow: /news/apple-previews-accessibility-features-for-people-with-disabilities.html
