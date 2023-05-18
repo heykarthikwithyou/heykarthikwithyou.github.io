@@ -12,6 +12,13 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/who-advises-against-the-use-of-non-sugar-sweeteners.html
+Allow: /news/health-department-anticipates-spurt-in-dengue-cases-intensifies-control-measures-in-coimbatore-district.html
+Allow: /news/titanic-shipwreck-captured-in-first-full-digital-scan.html
+Allow: /news/nia-conducts-raids-in-haldwani-and-dehradun-in-connection-with-drug-smuggling-gangsters-and-terror-groups-case.html
+Allow: /news/india-pushes-back-against-eu-crackdown-on-russian-oil-resold-as-refined-fuels-by-indian-firms.html
+Allow: /news/71-year-old-man-hires-contract-killers-to-murder-35-year-old-wife-in-delhis-rajouri-garden.html
+Allow: /news/union-minister-kiren-rijiju-loses-law-and-justice-portfolio-assigned-earth-sciences-arjun-ram-meghwal-takes-over-as-mos.html
 Allow: /news/karnataka-election-2023-dk-shivakumar-siddaramaiah-behind-dk-shivakumar-accepting-no-2-spot-sonia-gandhis-big-role.html
 Allow: /news/venom-3-chiwetel-ejiofor-tom-hardy.html
 Allow: /news/johnny-depp-gets-emotional-as-his-film-receives-standing-ovation-at-cannes.html
