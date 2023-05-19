@@ -12,6 +12,8 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/it-worker-sues-boss-for-sending-xx-on-work-email-claims-it-is-sexual-harassment.html
+Allow: /news/pm-narendra-modi-ukraine-president-zelenskyy-may-hold-bilateral-meet-in-japan.html
 Allow: /news/syria-s-assad-in-saudi-arabia-to-attend-arab-league-summit-for-1st-time-in-over-decade.html
 Allow: /news/magnitude-earthquake-hits-island-in-pacific-sparks-tsunami-warning.html
 Allow: /news/green-card-us-visa-news-whats-behind-long-green-card-wait-time-for-india-an-official-explains.html
