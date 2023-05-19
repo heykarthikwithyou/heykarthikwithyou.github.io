@@ -94,7 +94,6 @@ Allow: /news/samantha-ruth-prabhu-reminds-fan-her-upcoming-series-citadel-is-not
 Allow: /news/explained-mandatory-recall-failed-medicines-law-cdsco.html
 Allow: /news/isro-to-launch-chandrayaan-3-and-aditya-l1-india-s-moon-and-sun-missions-in-july-official-confirms-development.html
 Allow: /news/brad-pitt-to-drive-formula-1-car-more-deets-inside.html
-Allow: /news/brad-pitt-to-drive-formula-1-car-more-deets-inside.html
 Allow: /news/sudirman-cup-doubts-india-participation-visa-issues.html
 Allow: /news/news-iga-swiatek-drags-madrid-open-scheduling-runner-up-finish.html
 Allow: /news/vignesh-shivan-shares-pics-as-he-watches-ipl-match-with-nayanthara-in-chennai-anirudh-joins-them-see-posts.html
