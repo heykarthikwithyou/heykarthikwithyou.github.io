@@ -12,6 +12,12 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/syria-s-assad-in-saudi-arabia-to-attend-arab-league-summit-for-1st-time-in-over-decade.html
+Allow: /news/magnitude-earthquake-hits-island-in-pacific-sparks-tsunami-warning.html
+Allow: /news/green-card-us-visa-news-whats-behind-long-green-card-wait-time-for-india-an-official-explains.html
+Allow: /news/indian-navy-aids-in-search-and-rescue-operation-for-capsized-chinese-fishing-vessel-with-39-onboard.html
+Allow: /news/imran-khan-battlelines-drawn-between-imran-niazi-and-gen-asim-munir-in-pakistan.html
+Allow: /news/japan-believes-modi-s-participation-in-g7-summit-will-build-synergy-between-g7-and-g20-processes-for-global-south-issues.html
 Allow: /news/who-advises-against-the-use-of-non-sugar-sweeteners.html
 Allow: /news/health-department-anticipates-spurt-in-dengue-cases-intensifies-control-measures-in-coimbatore-district.html
 Allow: /news/titanic-shipwreck-captured-in-first-full-digital-scan.html
@@ -64,7 +70,6 @@ Allow: /news/breakthrough-in-microbial-recycling-scientists-discover-microbes-th
 Allow: /news/how-architecture-and-design-on-earth-helps-to-plan-for-life-on-mars.html
 Allow: /news/asteroid-2023-hg1-hurtling-through-space-towards-earth-at-7200-kmph.html
 Allow: /news/woman-lost-in-australia-s-forest-for-5-days-survives-on-a-bottle-of-wine-and-lollipops.html
-Allow: /news/syria-saudi-arabia-diplomatic-relations.html
 Allow: /news/syria-saudi-arabia-diplomatic-relations.html
 Allow: /news/china-pakistan-political-crisis.html
 Allow: /news/bilateral-troubles-at-a-multilateral-forum.html
