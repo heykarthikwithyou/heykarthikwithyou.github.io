@@ -12,6 +12,9 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/quad-leaders-to-meet-tomorrow-in-hiroshima-white-house-confirms.html
+Allow: /news/pakistan-army-chief-munir-threatened-wives-and-children-of-critics-during-closed-door-meet.html
+Allow: /news/iran-hangs-three-men-convicted-of-killing-security-forces-during-protests.html
 Allow: /news/japan-minister-kono-taro-serious-about-joining-india-upi-system-digital-payment.html
 Allow: /news/female-student-shot-dead-by-male-classmate-on-shiv-nadar-university-campus-police-say-initial-report-claimed-she-was-bitten-by-stray-dog.html
 Allow: /news/rbi-withdraw-rs-2000-note.html
