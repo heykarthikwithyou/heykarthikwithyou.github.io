@@ -12,6 +12,9 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/japan-minister-kono-taro-serious-about-joining-india-upi-system-digital-payment.html
+Allow: /news/female-student-shot-dead-by-male-classmate-on-shiv-nadar-university-campus-police-say-initial-report-claimed-she-was-bitten-by-stray-dog.html
+Allow: /news/rbi-withdraw-rs-2000-note.html
 Allow: /news/it-worker-sues-boss-for-sending-xx-on-work-email-claims-it-is-sexual-harassment.html
 Allow: /news/pm-narendra-modi-ukraine-president-zelenskyy-may-hold-bilateral-meet-in-japan.html
 Allow: /news/syria-s-assad-in-saudi-arabia-to-attend-arab-league-summit-for-1st-time-in-over-decade.html
