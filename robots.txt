@@ -12,6 +12,10 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/congress-faces-uphill-task-as-leaders-lobby-for-cabinet-berths-in-karnataka-s-new-government.html
+Allow: /news/centre-to-bring-bill-to-link-birth-death-data-with-electoral-rolls.html
+Allow: /news/after-meet-with-kejriwal-mamata-calls-on-opposition-to-unite-against-delhi-ordinance.html
+Allow: /news/sharad-pawar-pm-nitish-kumar-mallikarjun-kharge-rahul-gandhi-lok-sabha-election-opposition-unity.html
 Allow: /news/kareena-kapoor-s-idea-of-a-perfect-saturday-night-involves-chilling-with-bff-amrita-arora.html
 Allow: /news/diana-penty-keeps-it-classic-in-glamorous-look-at-cannes-red-carpet-wears-little-black-dress-for-party.html
 Allow: /news/new-genome-data-challenges-traditional-view-of-human-evolution.html
