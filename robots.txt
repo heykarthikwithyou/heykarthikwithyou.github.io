@@ -12,6 +12,15 @@ Allow: /category/india.html
 Allow: /category/health.html
 Allow: /category/movies.html
 Allow: /category/entertainment.html
+Allow: /news/neeraj-chopra-becomes-world-no-1-in-mens-javelin-rankings.html
+Allow: /news/un-chief-says-its-time-to-reform-security-council.html
+Allow: /news/india-as-a-quad-led-biomanufacturing-hub.html
+Allow: /news/neww-r-veteran-f-16s-prepare-for-yet-another.html
+Allow: /news/us-debt-crisis-joe-biden-kevin-mccarthy-us-will-run-out-of-cash-in-less-than-three-weeks-what-this-means.html
+Allow: /news/depsang-ladakh-china-india-buffer-zone.html
+Allow: /news/defence-india-poised-to-be-at-forefront-of-digital-innovation-with-thriving-digital-economy-tech-use-us-ambassador-eric-garcetti.html
+Allow: /news/vivekananda-reddy-murder-case-cbi-team-reaches-kurnool-after-avinash-rejects-summons.html
+Allow: /news/india-unveils-action-plan-for-pacific-island-states-to-counter-china-s-influence-with-focus-on-health-renewable-energy-and-cybersecurity.html
 Allow: /news/congress-faces-uphill-task-as-leaders-lobby-for-cabinet-berths-in-karnataka-s-new-government.html
 Allow: /news/centre-to-bring-bill-to-link-birth-death-data-with-electoral-rolls.html
 Allow: /news/after-meet-with-kejriwal-mamata-calls-on-opposition-to-unite-against-delhi-ordinance.html
