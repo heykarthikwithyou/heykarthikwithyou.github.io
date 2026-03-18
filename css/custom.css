@@ -1,0 +1,1056 @@
+
+.hidden {
+    display: none !important;
+}
+
+.peoplesblog-shopping.search .ct-drawer-canvas #woo-filters-panel[data-behaviour*=side] {
+    --horizontal-alignment: stretch;
+}
+.peoplesblog-shopping.search .ct-drawer-canvas #woo-filters-panel .ct-sidebar .ct-widget:not(:last-child) {
+    margin-bottom: var(--sidebar-widgets-spacing, 40px);
+}
+.peoplesblog-shopping.search .ct-drawer-canvas #woo-filters-panel .ct-sidebar .ct-widget {
+    color: var(--theme-text-color);
+}
+.peoplesblog-shopping.search .ct-drawer-canvas #woo-filters-panel .widget-title {
+    font-size: 15px;
+    font-weight: 600;
+}
+.peoplesblog-shopping.search .ct-drawer-canvas #woo-filters-panel .ct-filter-widget-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.peoplesblog-shopping.search .ct-drawer-canvas #woo-filters-panel .ct-price-filter-slider {
+    --handle-size: 18px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-block: calc(var(--handle-size)/2) 25px;
+    margin-inline: calc(var(--handle-size)/2);
+}
+.peoplesblog-shopping.search .ct-drawer-canvas #woo-filters-panel .ct-price-filter-slider .ct-price-filter-range-track {
+    position: absolute;
+    inset-inline: calc(var(--handle-size)/2*-1);
+    height: 14px;
+    padding: 6px 0;
+    background-clip: content-box;
+    cursor: pointer;
+    background-image: linear-gradient(90deg, var(--theme-form-field-border-initial-color) var(--start), var(--theme-palette-color-1) var(--start), var(--theme-palette-color-1) var(--end), var(--theme-form-field-border-initial-color) var(--end));
+}
+.peoplesblog-shopping.search .ct-drawer-canvas #woo-filters-panel .ct-price-filter-slider input[type=range] {
+    position: absolute;
+    z-index: 2;
+    opacity: 0;
+    width: calc(100% + var(--handle-size));
+    inset-inline: calc(var(--handle-size)/2*-1);
+    outline: none;
+    -webkit-appearance: none;
+    appearance: none;
+    pointer-events: none;
+    background: rgba(0,0,0,0);
+}
+.peoplesblog-shopping.search .ct-drawer-canvas #woo-filters-panel .ct-price-filter-slider [class*=ct-price-filter-range-handle] {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: var(--handle-size);
+    height: var(--handle-size);
+    border-radius: 100%;
+    background: #fff;
+    border: 2px solid var(--theme-palette-color-1);
+    transform: translateX(calc(var(--handle-size) / 2 * -1));
+    transition: box-shadow .1s ease;
+}
+.peoplesblog-shopping.search .ct-drawer-canvas #woo-filters-panel .ct-price-filter-inputs {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+.peoplesblog-shopping.search .ct-drawer-canvas #woo-filters-panel .ct-price-filter-inputs [class*=ct-price-filter] {
+    font-weight: 600;
+}
+.peoplesblog-shopping.search .ct-toggle-filter-panel {
+    gap: 8px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: var(--theme-text-color);
+    --toggle-button-radius: 3px;
+    --toggle-button-margin-start: 0;
+    --toggle-button-padding: 7px 13px;
+    --toggle-button-border-width: 1px;
+    --toggle-button-border-color: var(--theme-border-color);
+    --theme-icon-size: 12px;
+    --theme-icon-color: currentColor;
+}
+.peoplesblog-shopping.search .ct-container[data-sidebar],
+[data-sidebar] {
+    display: grid;
+    grid-template-columns: var(--grid-template-columns, 100%);
+    grid-column-gap: var(--sidebar-gap, 4%);
+    grid-row-gap: 50px;
+}
+div#gspb_row-id-gsbp-0852d9b {
+    padding-top: 40px;
+    padding-bottom: 0;
+}
+div#gspb_container-id-gsbp-dd0d07b {
+    margin-top: 50px;
+}
+[data-footer*="type-1"] .ct-footer [data-row*="top"]>div {
+    --grid-template-columns: repeat(1, 1fr);
+    text-align: center;
+    padding: 30px;
+}
+.peoplesblog-shopping.index-page .gspb_heading-id-gsbp-e4451e9,
+.peoplesblog-shopping.index-page #gspb_heading-id-gsbp-e4451e9 {
+    font-size: 68px;
+}
+.gspb_iconBox-id-gsbp-ba23557-id svg, .gspb_iconBox-id-gsbp-ba23557-id svg path,
+#gspb_iconBox-id-gsbp-037ef41 svg, #gspb_iconBox-id-gsbp-037ef41 svg path,
+#gspb_iconBox-id-gsbp-16d54ac svg, #gspb_iconBox-id-gsbp-16d54ac svg path,
+#gspb_iconBox-id-gsbp-fd1de36 svg, #gspb_iconBox-id-gsbp-fd1de36 svg path,
+#gspb_iconBox-id-gsbp-c161dc4 svg, #gspb_iconBox-id-gsbp-c161dc4 svg path {
+        fill: #fff !important;
+}
+.peoplesblog-shopping.reviews-index #main .ct-container,
+.peoplesblog-shopping.compare-index #main .ct-container,
+.peoplesblog-shopping.articles-index #main .ct-container {
+    padding: 30px 0;
+}
+.peoplesblog-shopping.articles-index .entry-card .ct-media-container {
+    --theme-border-radius: 12px;
+}
+.peoplesblog-shopping.articles-index .entry-card .entry-meta {
+    --theme-font-weight: 500;
+    --theme-text-transform: uppercase;
+    --theme-font-size: 12px;
+}
+.peoplesblog-shopping.articles-index .entry-card .card-content .entry-meta {
+    display: none;
+}
+.peoplesblog-shopping.articles-index .entry-card .entry-title {
+    --theme-font-size: 20px;
+    --theme-line-height: 1.3;
+}
+.peoplesblog-shopping.articles-index .entry-card .entry-title {
+    --theme-font-size: 18px;
+}
+.peoplesblog-shopping.articles-index [data-cards="simple"] .entry-card {
+    --card-border: 1px dashed rgba(224, 229, 235, 0.8);
+}
+/* .peoplesblog-shopping.articles-index .entry-card a.ct-media-container {
+    border: 1px solid #e5eaeb;
+} */
+.peoplesblog-shopping.articles-index .entry-meta[data-type*=circle] li:not(:last-of-type):after {
+    content: "●";
+    font-size: .35em;
+}
+.is-product-collection-layout-list .wc-block-product:not(:last-child) {
+    margin-bottom: 1.2rem;
+}
+.peoplesblog-shopping.review .ct-container-full {
+    padding-top: 15px;
+}
+.peoplesblog-shopping.review nav.ct-breadcrumbs {
+    white-space: nowrap;
+    overflow: auto; /* Enable scrolling */
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+}
+.peoplesblog-shopping.review nav.ct-breadcrumbs::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, and Opera */
+}
+.peoplesblog-shopping.review h1.product_title.entry-title {
+    font-size: 20px;
+    margin-bottom: 20px !important;
+}
+.peoplesblog-shopping.review h1.product_title.entry-title::first-letter {
+    text-transform: uppercase;
+}
+.peoplesblog-shopping.review .price,
+.peoplesblog-shopping.review .product_meta,
+.peoplesblog-shopping.review button.single_add_to_cart_button.button.alt {
+    margin-bottom: 20px !important;
+}
+.peoplesblog-shopping.review button.single_add_to_cart_button.button.alt {
+    width: 100%;
+}
+span.woocommerce-Price-currencySymbol {
+    margin-right: 5px;
+}
+.ct-share-box:is([data-type=type-2],[data-type=type-3])>div {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: var(--items-spacing, 15px);
+}
+.peoplesblog-shopping.review div.woocommerce-tabs ul.tabs {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: var(--vertical-alignment,center);
+}
+.peoplesblog-shopping.review div.woocommerce-tabs ul.tabs {
+    /* flex-direction: column; */
+    --vertical-alignment: stretch;
+    flex-direction: row;
+    font-size: 11px;
+    /* border-top: 1px solid #e6eaec; */
+}
+.peoplesblog-shopping.review  div.woocommerce-tabs ul.tabs li {
+    position: relative;
+    display: inline-flex;
+}
+.peoplesblog-shopping.review div.woocommerce-tabs ul.tabs li {
+    /* border-top: 1px solid var(--tab-border-color,var(--theme-border-color)); */
+}
+.peoplesblog-shopping.review div.woocommerce-tabs ul.tabs li.active {
+    z-index: 1;
+}
+.peoplesblog-shopping.review div.woocommerce-tabs ul.tabs li.active:before {
+    position: absolute;
+    content: "";
+    height: 3px;
+    inset-inline: 0;
+    bottom: -2px;
+    background: var(--tab-background,var(--theme-palette-color-1));
+}
+.peoplesblog-shopping.review div.woocommerce-tabs ul.tabs li.customer_reviews_tab {
+    display: none;
+}
+.peoplesblog-shopping.review div.woocommerce-tabs ul.tabs li a {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    line-height: inherit;
+    padding: 1.3em 1.5em;
+}
+.peoplesblog-shopping.review div.woocommerce-tabs ul.tabs li.active a {
+    color: var(--theme-link-active-color,var(--theme-link-hover-color));
+}
+.peoplesblog-shopping.review .woocommerce-tabs {
+    padding-top: 30px;
+}
+.peoplesblog-shopping.review .woocommerce-tabs .woocommerce-Tabs-panel {
+    margin: 15px auto;
+    color: #212529;
+    font-weight: normal;
+}
+.peoplesblog-shopping.review .woocommerce-tabs .woocommerce-Tabs-panel ul,
+.peoplesblog-shopping.review .woocommerce-tabs .woocommerce-Tabs-panel ol {
+    padding-left: 20px;
+}
+.peoplesblog-shopping.review .woocommerce-tabs .woocommerce-Tabs-panel a {
+    color: #212529;
+}
+.peoplesblog-shopping.review .woocommerce-tabs article {
+    border-bottom: 1px solid #e6eaed;
+    margin-bottom: 30px;
+}
+.peoplesblog-shopping.compare .main-title {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.peoplesblog-shopping.compare .woocommerce-product-gallery.summary.entry-summary.entry-summary-items {
+    margin-inline-start: unset;
+}
+.peoplesblog-shopping.compare .product-entry-wrapper.is-width-constrained {
+    /* margin: 15px auto; */
+}
+.peoplesblog-shopping.compare .product-entry-wrapper.is-width-constrained {
+    clear: both !important;
+}
+.peoplesblog-shopping.compare .product-entry-wrapper.is-width-constrained .woocommerce-product-gallery.summary.entry-summary.entry-summary-items {
+    float: left !important;
+    width: 50% !important;
+    margin-bottom: 15px;
+    color: #212529;
+    font-weight: normal;
+}
+.peoplesblog-shopping.compare .product-entry-wrapper.is-width-constrained .summary.entry-summary.entry-summary-items {
+    width: 50% !important;
+    float: right !important;
+    color: #212529;
+    font-weight: normal;
+}
+.peoplesblog-shopping.compare .product-entry-wrapper h2.product_title.entry-title {
+    font-size: 18px;
+    padding: 0 5px 5px 0;
+}
+.peoplesblog-shopping.compare .summary h4 {
+    font-size: 20px;
+}
+.peoplesblog-shopping.compare .summary p {
+    font-size: 15px;
+}
+.peoplesblog-shopping.compare .product-entry-wrapper p.price {
+    margin-bottom: 5px !important;
+}
+.peoplesblog-shopping.compare .product-entry-wrapper p.price .sale-price {
+    justify-content: left;
+    font-size: 15px !important;
+}
+.peoplesblog-shopping.compare .product-entry-wrapper .summary.entry-summary.entry-summary-items h4 {
+    font-size: 18px;
+}
+.peoplesblog-shopping.compare .product-entry-wrapper p {
+    font-size: 14px;
+}
+.peoplesblog-shopping.compare .product-entry-wrapper ul,
+.peoplesblog-shopping.compare .product-entry-wrapper ol {
+    padding-inline-start: 15px;
+    margin-block-end: 0;
+    font-size: 14px;
+}
+.peoplesblog-shopping.compare .product-entry-wrapper ol {
+    padding-inline-start: 25px;
+}
+.peoplesblog-shopping.compare .product-entry-wrapper ul li,
+.peoplesblog-shopping.compare .product-entry-wrapper ol li {
+    padding: 0 5px 5px 0;
+}
+.peoplesblog-shopping.article .ct-container[data-sidebar="right"] {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.peoplesblog-shopping.article .ct-container[data-sidebar="right"] h1 {
+    margin: 15px auto;
+    font-size: 18px;
+}
+.peoplesblog-shopping.article .ct-container[data-sidebar="right"] ul.entry-meta {
+    margin: 15px auto;
+}
+.shopping-tiles .shop-tile .ct-media-container img {
+    display: block;
+    margin: 15px auto;
+    width: 200px;
+    object-fit: contain;
+    height: 250px;
+}
+/* .peoplesblog-shopping.review .ct-media-container img {
+    width: 250px;
+    object-fit: contain;
+    height: 300px;
+    margin: auto;
+} */
+.peoplesblog-shopping.compare-index .ct-media-container img {
+    width: 250px;
+    object-fit: contain;
+    height: 300px;
+    margin: auto;
+}
+.comparison-tiles {
+    --shop-columns: repeat(2, minmax(0, 1fr)) !important;
+    margin: 30px auto !important;
+    grid-column-gap: 5px;
+}
+.comparison-tiles .comparison-tile {
+    overflow: unset;
+    display: contents;
+    padding: 0;
+}
+.comparison-tiles .comparison-tile:hover {
+    background-color: #f9fafb;
+}
+.comparison-tiles .comparison-tile > a {
+    display: contents;
+}
+.comparison-tiles .comparison-tile .comparison-tile-each {
+    padding: 1rem;
+    border-top: 1px solid #e6eaed;
+}
+.comparison-tiles .comparison-tile .comparison-tile-each .title {
+    display: none;
+}
+.comparison-tiles .comparison-tile .comparison-tile-each h2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    font-size: 15px;
+    text-align: left;
+    margin: 15px -15px;
+}
+.comparison-tiles .comparison-tile .comparison-tile-each .ct-woo-card-actions {
+    border-top: none;
+}
+.peoplesblog-shopping.articles-index .entries article.entry-card {
+    gap: var(--card-inner-spacing, 15px);
+}
+.peoplesblog-shopping.articles-index .entries article.entry-card .entry-title {
+    margin-bottom: 10px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+.peoplesblog-shopping.articles-index .entries article.entry-card img {
+    display: block;
+    margin: auto;
+    width: 200px;
+    object-fit: contain;
+    height: 250px;
+}
+.peoplesblog-shopping.articles-index .entries article.entry-card .entry-excerpt {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+}
+.peoplesblog-shopping.articles-index .entries article.entry-card .entry-excerpt strong {
+    font-weight: 100;
+}
+.peoplesblog-shopping.article p {
+    margin-bottom: 5px;
+    color: #212529;
+    font-weight: normal;
+}
+.peoplesblog-shopping.article h2 {
+    font-size: 17px;
+    margin-bottom: 5px;
+}
+.peoplesblog-shopping.article .article-products {
+    padding: 0 !important;
+    margin: 15px auto !important;
+    background-color: #fff !important;
+    border-bottom: 1px solid #e6eaed;
+    border-radius: unset !important;
+    padding-bottom: 15px !important;
+}
+.peoplesblog-shopping.article .article-products:last-of-type {
+    border-bottom: unset !important;
+}
+.peoplesblog-shopping.article .article-products h2 {
+    font-size: 17px;
+}
+.peoplesblog-shopping.article .article-products h4 {
+    font-size: 16px;
+}
+.peoplesblog-shopping.article .article-products div,
+.peoplesblog-shopping.article .article-products p,
+.peoplesblog-shopping.article .article-products ul,
+.peoplesblog-shopping.article .article-products ul li,
+.peoplesblog-shopping.article .article-products ol,
+.peoplesblog-shopping.article .article-products ol li {
+    font-size: 15px;
+    margin-bottom: 5px;
+    color: #212529;
+    font-weight: normal;
+}
+.peoplesblog-shopping.article .article-products ul,
+.peoplesblog-shopping.article .article-products ol {
+    padding: 0 0 0 15px;
+    /* list-style: none; */
+}
+.peoplesblog-shopping.article .article-products a.button {
+    display: block;
+    margin: 15px 0;
+    width: 100%;
+}
+.peoplesblog-shopping.article .article-products .sale-price {
+    font-size: 18px;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+}
+.peoplesblog-shopping.article .article-products .sale-price del {
+    padding-right: 15px;
+    margin-right: 15px;
+    border-right: 1px solid #e6eaed;
+}
+.peoplesblog-shopping.article .article-products-table {
+    margin-bottom: 30px;
+}
+.peoplesblog-shopping.article .article-products-table .title a {
+    color: #556471
+}
+.peoplesblog-shopping.article-type .type-title {
+    margin-bottom: 0;
+    font-size: 32px;
+    margin-top: 5px;
+}
+.copyright .ct-footer-copyright {
+    font-size: 10px;
+    letter-spacing: 2px;
+}
+.static-pages h1 {
+    /* margin-bottom: 5px; */
+    font-size: 36px;
+}
+.static-pages h2 {
+    margin-bottom: 5px;
+    font-size: 24px;
+}
+.static-pages details {
+    background: #f9fafb;
+    border-radius: 8px;
+    /* box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); */
+    margin-bottom: 1rem;
+    padding: 1rem;
+    transition: all 0.3s ease;
+    transition: all .3s ease-in-out;
+}
+.static-pages details:hover {
+    /* box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); */
+}
+.static-pages summary {
+    font-weight: 500;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.static-pages summary::-webkit-details-marker {
+    display: none;
+}
+.static-pages summary::after {
+    content: "➕";
+    font-size: 1.2rem;
+    transition: transform 0.3s ease;
+    transition: all .3s ease-in-out;
+}
+.static-pages details[open] summary::after {
+    content: "➖";
+}
+.static-pages summary h2 {
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.static-pages details p {
+    margin: 1rem 0 0;
+    color: #333;
+    line-height: 1.5;
+}
+.gspb_heading-id-gsbp-2837600-id {
+    margin-block-end: unset;
+}
+.product_meta .posted_in a h2 {
+    font-size: 15px;
+}
+.shopping-tiles .shop-tile h2 a {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+}
+.peoplesblog-shopping.search h2.search-result-title .desc {
+    font-size: 16px;
+    font-weight: 100;
+    color: #576471;
+}
+.peoplesblog-shopping.search .price {
+    margin-bottom: 0 !important;
+}
+[data-products=type-2] figure, [data-products=type-2] .ct-woo-card-actions {
+    width: calc(85% + 40px);
+}
+.onsale, .out-of-stock-badge, [class*=ct-woo-badge-] {
+    padding: 4px 8px;
+    font-size: 14px;
+    color: #000;
+}
+.peoplesblog-shopping.search .woocommerce ul li span.tag,
+.peoplesblog-shopping.search .entries article span.tag-inner {
+    display: none;
+}
+.peoplesblog-shopping.search .entries article {
+    border: 1px solid #e6eaec !important;
+    padding: 15px;
+    border-radius: 15px;
+}
+.peoplesblog-shopping.search .entries h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+}
+.peoplesblog-shopping.search .entries .entry-excerpt {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+}
+.peoplesblog-shopping.search .entries .entry-excerpt strong {
+    font-weight: 100;
+}
+.ct-header-cta:hover,
+.ct-header-cta > .ct-button-ghost:hover {
+    background-color: #fff;
+    cursor: auto;
+}
+.ct-icon-container svg {
+    width: 24px;
+}
+.ct-breadcrumbs a span {
+    /* font-weight: bold;
+    letter-spacing: 0.5px; */
+}
+.woocommerce-tabs .product-title {
+    color: #212529;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 15px auto;
+    border-bottom: 1px solid #e6eaec;
+}
+.woocommerce-tabs .product-information {
+    color: #212529;
+    font-weight: normal !important;
+}
+.woocommerce-tabs .product-information strong {
+    text-transform: capitalize;
+}
+.woocommerce-tabs .product-information ul,
+.woocommerce-tabs .product-information ol {
+    padding-left: 15px;
+}
+.woocommerce-tabs .product-information a {
+    color: #212529;
+}
+.woocommerce-tabs .product-information-buy {
+    margin: 15px auto;
+}
+.woocommerce-tabs .product-information-buy span {
+    text-align: center;
+    display: block;
+    font-size: 13px;
+    font-weight: 100;
+    line-height: 1.5;
+}
+.woocommerce-product-gallery .ct-media-container {
+    justify-content: center;
+}
+.peoplesblog-shopping.compare .ct-media-container img {
+    height: 200px;
+    object-fit: contain;
+}
+.peoplesblog-shopping.article .article-products .wp-block-greenshift-blocks-row-column .wp-block-greenshift-blocks-image img {
+    width: auto;
+    margin: 15px auto;
+    display: block !important;
+    height: 250px;
+    object-fit: contain;
+}
+.latest-product-information {
+    text-align: left;
+}
+.latest-product-information ol {
+    padding-inline-start: 20px;
+    margin: 10px auto;
+}
+.latest-product-information ol li {
+    color: #212529;
+}
+.latest-product-information ol li:nth-child(n+4) {
+  display: none;
+}
+.peoplesblog-shopping .ct-media-container img {
+    transform-origin: center center;
+    transition: transform 0.6s ease;
+    will-change: transform;
+}
+.peoplesblog-shopping .ct-media-container figure:hover img {
+    transform: scale(1.08);
+}
+.index-page .onsale {
+    transform: rotate(-45deg);
+    left: -45px;
+    top: 25px;
+    padding: 10px 40px;
+}
+.index-page .onsale.section-1 {
+    left: -65px;
+}
+.index-page .comparison-tiles .comparison-tile .comparison-tile-each .title {
+    width: 75%;
+    margin: 15px 30px;
+    -webkit-line-clamp: 3;
+}
+.hidden-mobile {
+    display: none;
+}
+.index-page .entries article.entry-card .entry-title {
+    margin-bottom: 10px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    --theme-font-size: 18px;
+}
+.index-page .entries article.entry-card .entry-excerpt {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+}
+
+
+@media (min-width: 600px) {
+    .peoplesblog-shopping.compare .ct-media-container img {
+        height: 400px;
+    }
+    .peoplesblog-shopping.search .ct-container[data-sidebar=right] {
+        --grid-template-columns: minmax(100px, 1fr) var(--sidebar-width, 27%);
+    }
+    .peoplesblog-shopping.search h2.gspb_heading-id-gsbp-e4451e9,
+    .peoplesblog-shopping.reviews-index h2.gspb_heading-id-gsbp-e4451e9,
+    .peoplesblog-shopping.compare-index h2.gspb_heading-id-gsbp-e4451e9,
+    .peoplesblog-shopping.search h2#gspb_heading-id-gsbp-e4451e9,
+    .peoplesblog-shopping.reviews-index h2#gspb_heading-id-gsbp-e4451e9,
+    .peoplesblog-shopping.compare-index h2#gspb_heading-id-gsbp-e4451e9 {
+        font-size: 72px;
+    }
+    [data-footer*="type-1"] .ct-footer [data-row*="top"]>div {
+        --grid-template-columns: repeat(1, 1fr);
+        text-align: center;
+        padding: 30px 100px;
+    }
+    [data-row=middle][data-middle=search-input] [data-column=middle] .ct-search-box {
+        --max-width: 75%;
+    }
+    .peoplesblog-shopping.articles-index #main .ct-container {
+        /* padding: 50px 0; */
+    }
+    .peoplesblog-shopping.articles-index .entry-card .card-content .entry-meta {
+        display: block;
+    }
+    .peoplesblog-shopping.articles-index .entry-card .entry-title {
+        --theme-font-size: 20px;
+        --theme-line-height: 1.3;
+        --theme-link-initial-color: initial;
+        --card-element-spacing: 20px;
+    }
+    .peoplesblog-shopping.articles-index [data-sidebar=right] {
+        --grid-template-columns: minmax(100px, 1fr) var(--sidebar-width, 27%);
+    }
+    .peoplesblog-shopping.articles-index [data-vertical-spacing="top:bottom"] {
+        --sidebar-helper-top: calc(var(--theme-content-vertical-spacing) * -1);
+        --sidebar-helper-height: calc(100% + var(--theme-content-vertical-spacing) * 2);
+    }
+    .peoplesblog-shopping.articles-index .entry-card .entry-meta {
+        --card-element-spacing: 15px;
+    }
+    .peoplesblog-shopping.review .ct-container-full {
+        padding-top: 30px;
+    }
+    .peoplesblog-shopping.review h1.product_title.entry-title {
+        font-size: 30px;
+    }
+    .peoplesblog-shopping.review .ct-product-gallery-container figure img {
+        transform-origin: center center;
+        transition: transform 0.6s ease; /* duration & easing for slow zoom */
+        will-change: transform; 
+    }
+    .peoplesblog-shopping.review .ct-product-gallery-container figure:hover img,
+    .peoplesblog-shopping.review .ct-product-gallery-container figure:focus-within img {
+        transform: scale(1.08);  /* zoom amount: 1.05 - 1.15 is subtle */
+    }
+    .peoplesblog-shopping.compare-index .ct-media-container img {
+        transform-origin: center center;
+        transition: transform 0.6s ease; /* duration & easing for slow zoom */
+        will-change: transform; 
+    }
+    .peoplesblog-shopping.compare-index .ct-media-container figure:hover img,
+    .peoplesblog-shopping.compare-index .ct-media-container figure:focus-within img {
+        transform: scale(1.08);  /* zoom amount: 1.05 - 1.15 is subtle */
+    }
+    .peoplesblog-shopping.review div.woocommerce-tabs ul.tabs {
+        flex-direction: unset;
+        --vertical-alignment: unset;
+    }
+    .peoplesblog-shopping.review div.woocommerce-tabs ul.tabs {
+        /* justify-content: var(--horizontal-alignment,center); */
+    }
+    .peoplesblog-shopping.review div.woocommerce-tabs ul.tabs li {
+        border-top: none;
+    }
+    .peoplesblog-shopping.review div.woocommerce-tabs ul.tabs li.customer_reviews_tab {
+        display: flex;
+    }
+    .peoplesblog-shopping.review .woocommerce-tabs .woocommerce-Tabs-panel {
+        margin: 30px auto;
+    }
+    .peoplesblog-shopping.compare .product-entry-wrapper.is-width-constrained {
+        clear: unset !important;
+        margin: 15px auto;
+    }
+    .peoplesblog-shopping.compare .product-entry-wrapper.is-width-constrained .woocommerce-product-gallery.summary.entry-summary.entry-summary-items {
+        float: unset !important;
+        width: 100% !important; 
+    }
+    .peoplesblog-shopping.compare .product-entry-wrapper.is-width-constrained .summary.entry-summary.entry-summary-items {
+        float: unset !important;
+        width: 100% !important;
+    }
+    .peoplesblog-shopping.article .ct-container[data-sidebar="right"] {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .peoplesblog-shopping.article .ct-container[data-sidebar="right"] h1 {
+        /* margin-top: unset; */
+        font-size: 30px;
+    }
+    .shopping-tiles .shop-tile h2 a {
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 4; /* Number of lines to display */
+        -webkit-box-orient: vertical;
+        text-overflow: ellipsis; 
+    }
+    .comparison-tiles .comparison-tile {
+        overflow: hidden;
+        display: grid;
+        padding: 15px;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+    .comparison-tiles .comparison-tile .comparison-tile-each {
+        padding-top: 86px;
+        border: unset;
+    }
+    .comparison-tiles .comparison-tile .comparison-tile-each .title {
+        position: absolute;
+        top: 0;
+        left: unset;
+        text-align: center !important;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        font-size: 24px;
+        margin: 20px auto;
+        width: 90%;
+    }
+    .peoplesblog-shopping.compare .main-title {
+        font-size: 30px;
+        text-align: center;
+        margin: 15px auto;
+    }
+    .peoplesblog-shopping.compare .product-entry-wrapper h2.product_title.entry-title {
+        font-size: 24px;
+    }
+    .peoplesblog-shopping.compare .product-entry-wrapper p.price {
+        display: inline-block;
+        margin-top: 10px;
+        margin-right: 15px;
+        padding-right: 15px;
+        border-right: 1px solid #e5eaeb;
+    }
+    .peoplesblog-shopping.compare .product-entry-wrapper p.price:last-child {
+        margin-right: unset;
+        padding-right: unset;
+        border-right: unset;
+    }
+    .peoplesblog-shopping.compare .product-entry-wrapper .summary.entry-summary.entry-summary-items h4 {
+        font-size: 20px;
+    }
+    .peoplesblog-shopping.compare .product-entry-wrapper ul,
+    .peoplesblog-shopping.compare .product-entry-wrapper ol,
+    .peoplesblog-shopping.compare .product-entry-wrapper p {
+        font-size: 15px;
+    }
+    .peoplesblog-shopping.compare .product-entry-wrapper .buy-now {
+        width: 100%;
+    }
+    .peoplesblog-shopping.articles-index .entries article.entry-card {
+        gap: var(--card-inner-spacing, 30px);
+    }
+    .peoplesblog-shopping.articles-index .entries article.entry-card .entry-title {
+        -webkit-line-clamp: 2;
+        /* margin-bottom: 10px; */
+    }
+    /* .peoplesblog-shopping.articles-index .entries article.entry-card a.ct-media-container {
+        border: 1px solid #e5eaeb;
+    } */
+    .peoplesblog-shopping.articles-index .entries article.entry-card img {
+        width: auto;
+        height: 250px;
+    }
+    .peoplesblog-shopping.articles-index .entries article.entry-card .entry-excerpt {
+        -webkit-line-clamp: 3;
+    }
+    .peoplesblog-shopping.article .article-products {
+        padding: 30px !important;
+        border: 1px solid #e6eaed;
+        border-radius: 5px !important;
+    }
+    .peoplesblog-shopping.article .article-products:last-of-type {
+        border-bottom: 1px solid #e6eaed !important;
+    }
+    .peoplesblog-shopping.article .article-products-table {
+        margin: 30px auto;
+    }
+    .peoplesblog-shopping.article h2 {
+        font-size: 17px;
+    }
+    .peoplesblog-shopping.article .article-products h2 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .peoplesblog-shopping.article .article-products h4 {
+        font-size: 18px;
+    }
+    .peoplesblog-shopping.article .article-products .wp-block-greenshift-blocks-row-column {
+        width: calc(50% - 0px - 5px) !important;
+        justify-content: start !important;
+    }
+    .peoplesblog-shopping.article .article-products .wp-block-greenshift-blocks-row-column .wp-block-greenshift-blocks-image {
+        margin-top: 0 !important;
+    }
+    .peoplesblog-shopping.article .article-products .wp-block-greenshift-blocks-row-column .wp-block-greenshift-blocks-image img {
+        transform-origin: center center;
+        transition: transform 0.6s ease; /* duration & easing for slow zoom */
+        will-change: transform; 
+    }
+    .peoplesblog-shopping.article .article-products .wp-block-greenshift-blocks-row-column .wp-block-greenshift-blocks-image:hover img {
+        transform: scale(1.08);  /* zoom amount: 1.05 - 1.15 is subtle */
+    }
+    .peoplesblog-shopping.articles-index .recent-reviews ul li h6 {
+        margin-bottom: 5px;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+    }
+    .peoplesblog-shopping.articles-index .recent-reviews ul li .amount.discount {
+        font-size: 80%;
+        font-weight: bold;
+        text-decoration: line-through;
+        padding-right: 10px;
+        margin-right: 10px;
+        border-right: 1px solid #e5eaeb;
+        color: #909294;
+    }
+    .peoplesblog-shopping.articles-index .recent-reviews ul li .amount.actual {
+        color: #212529;
+        font-weight: bold;
+    }
+    .peoplesblog-shopping.article-type .type-title {
+        font-size: 36px;
+        margin-top: 15px;
+    }
+    .menu-container .main-menu-first-level {
+        --theme-font-weight: 500;
+        --theme-text-transform: uppercase;
+        --theme-font-size: 12px;
+        --theme-line-height: 1.3;
+        --theme-link-initial-color: var(--theme-text-color);
+        --theme-link-hover-color: var(--theme-palette-color-4);
+    }
+    .menu-container .main-menu-first-level:hover,
+    .menu-container .main-menu-first-level span:hover,
+    .menu-container .main-menu-first-level svg:hover {
+        cursor: s-resize; 
+    }
+    .peoplesblog-shopping.search h2.search-result-title {
+        margin-top: 30px;
+        font-size: 36px;
+        margin-bottom: 0;
+    }
+    .peoplesblog-shopping.search h2.search-result-title .desc {
+        font-size: 16px;
+        font-weight: 100;
+        color: #576471;
+    }
+    .peoplesblog-shopping.search .wp-block-greenshift-blocks-container,
+    .peoplesblog-shopping.search .comparison-tiles {
+        margin-bottom: 0 !important;
+    }
+    .peoplesblog-shopping.search .entries .ct-media-container {
+        max-width: var(--card-media-max-width, 15%);
+    }
+    .peoplesblog-shopping.search .entries article {
+        border-bottom: 1px solid #e6eaec !important;
+    }
+    .peoplesblog-shopping.search .entries h2 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        text-overflow: ellipsis;
+    }
+    .peoplesblog-shopping.search .entries .entry-excerpt {
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        text-overflow: ellipsis;
+    }
+    .peoplesblog-shopping.search .price {
+        margin-bottom: 0 !important;
+    }
+    .input-error {
+        border: 2px solid #fbbf47 !important;
+        outline: none;
+    }
+    .product-entry-wrapper.sticky {
+        position: sticky;
+        top: 0;
+        background-color: #ffffff;
+        z-index: 1;
+        padding-top: 10px;
+    }
+    .comparison-tiles .comparison-tile .comparison-tile-each h2 {
+        -webkit-line-clamp: 2;
+    }
+    .peoplesblog-shopping.review div.woocommerce-tabs ul.tabs li a {
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .peoplesblog-shopping.review .woocommerce-tabs .woocommerce-Tabs-panel ul,
+    .peoplesblog-shopping.review .woocommerce-tabs .woocommerce-Tabs-panel ol {
+        padding-left: 2.5em;
+    }
+    .peoplesblog-shopping.search .woocommerce ul li span.tag {
+        display: block;
+        position: absolute;
+        background: #e5eaeb7a;
+        right: 0;
+        top: 0;
+        font-size: 10px;
+        text-transform: uppercase;
+        font-weight: bold;
+        padding: 2px 10px;
+        letter-spacing: 1px;
+        z-index: 100;
+        color: #abb1b8;
+    }
+    .peoplesblog-shopping.search .entries article span.tag-inner {
+        display: block;
+        padding: 5px 10px;
+        color: #abb1b8;
+        background: #e5eaeb7a;
+        text-transform: uppercase;
+        font-size: 10px;
+        font-weight: bold;
+        letter-spacing: 1px;
+        border-radius: 5px;
+    }
+    .woocommerce-tabs .product-information ul, .woocommerce-tabs .product-information ol {
+        padding-left: 45px;
+    }
+    .woocommerce-tabs .product-information-buy {
+        width: 50%;
+    }
+    .index-page .comparison-tiles .comparison-tile .comparison-tile-each {
+        padding-top: 120px;
+    }
+    .hidden-mobile {
+        display: block;
+    }
+    .index-page .entries article.entry-card .entry-title {
+        --theme-font-size: 20px;
+        --theme-line-height: 1.3;
+        --theme-link-initial-color: initial;
+        --card-element-spacing: 20px;
+    }
+}
