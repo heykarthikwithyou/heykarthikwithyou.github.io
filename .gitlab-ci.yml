@@ -1,0 +1,29 @@
+image: node:lts
+
+stages:
+  - build
+  - deploy
+
+# If you have any build step (optional)
+build:
+  stage: build
+  script:
+    - npm ci
+    - npm run build || echo "No build step, skipping"
+  artifacts:
+    paths:
+      - ./
+  only:
+    - $CI_DEFAULT_BRANCH
+
+# GitLab Pages deployment
+pages:
+  stage: deploy
+  script:
+    - echo "Deploying site from root folder..."
+  artifacts:
+    paths:
+      - ./
+  publish: .
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
