@@ -1,0 +1,85 @@
+# =========================
+# GLOBAL RULES
+# =========================
+User-agent: *
+Allow: /
+
+# =========================
+# BLOCK INTERNAL / SYSTEM PATHS
+# =========================
+Disallow: /core/
+Disallow: /themes/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /vendor/
+Disallow: /includes/
+
+# =========================
+# BLOCK USELESS / DUPLICATE PAGES
+# =========================
+Disallow: /search
+Disallow: /user
+Disallow: /admin
+Disallow: /node/add
+
+# Query parameters (avoid duplicate content)
+Disallow: /*?*
+Disallow: /*?utm_*
+Disallow: /*?fbclid=*
+Disallow: /*?gclid=*
+
+# =========================
+# ALLOW IMPORTANT ASSETS (optional but good)
+# =========================
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.webp$
+Allow: /*.svg$
+
+# =========================
+# AI / SCRAPER BOT CONTROL
+# =========================
+
+# OpenAI
+User-agent: GPTBot
+Disallow:
+
+# Google AI
+User-agent: Google-Extended
+Disallow:
+
+# Common AI / scrapers (block if you want stricter control)
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+# =========================
+# BAD / AGGRESSIVE BOTS
+# =========================
+User-agent: AhrefsBot
+Disallow:
+
+User-agent: SemrushBot
+Disallow:
+
+# =========================
+# SITEMAP
+# =========================
+Sitemap: https://thebestproducts.co.in/sitemap.xml
