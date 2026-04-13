@@ -4,7 +4,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
  <url>
   <loc>https://thebestproducts.co.in/</loc>
-  <lastmod>2026-03-29T08:39:20+05:30</lastmod>
+  <lastmod>2026-04-13T10:43:52+05:30</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
  </url>
@@ -52,13 +52,25 @@
  </url>
  <url>
   <loc>https://thebestproducts.co.in/home</loc>
-  <lastmod>2026-03-29T08:39:20+05:30</lastmod>
+  <lastmod>2026-04-13T10:43:52+05:30</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.8</priority>
  </url>
  <url>
   <loc>https://thebestproducts.co.in/4XX</loc>
   <lastmod>2026-04-07T15:56:21+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+ </url>
+ <url>
+  <loc>https://thebestproducts.co.in/about-us</loc>
+  <lastmod>2026-04-13T10:46:00+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.8</priority>
+ </url>
+ <url>
+  <loc>https://thebestproducts.co.in/contact-us</loc>
+  <lastmod>2026-04-13T10:49:07+05:30</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.8</priority>
  </url>
