@@ -2,6 +2,7 @@
 # GLOBAL RULES
 # =========================
 User-agent: *
+Disallow: /pagefind
 
 # =========================
 # BLOCK INTERNAL / SYSTEM PATHS
