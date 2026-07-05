@@ -1130,7 +1130,7 @@
         input.dispatchEvent(new Event("input", { bubbles: true }));
       }
       console.log('1');
-    }, 100);
+    }, 200);
 
     // Expand filters whenever results change.
     setTimeout(() => {
@@ -1139,7 +1139,7 @@
         ).forEach(details => {
           details.open = true;
         });
-    }, 200);
+    }, 500);
 
   });
 </script>
