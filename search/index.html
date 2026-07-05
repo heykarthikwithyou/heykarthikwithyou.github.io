@@ -54,6 +54,12 @@
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
 <script src="/pagefind/pagefind-ui.js"></script>
 <style>
+  .main-content__container.container {
+    padding-block-start: 45px;
+  }
+  div#block-olivero-page-title {
+    margin-bottom: 15px;
+  }
   div#search {
     display: block;
   }
@@ -1106,25 +1112,35 @@
     <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"search\/node","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"774dfe37dc363125882c69dc6450b9f2a8fd0d8273da10f14ac7576116f4488a"}}</script>
 <script src="/sites/default/files/js/js_Vc6HLAhU6pBaBKKjoVtzp7KtrE76HpR1_UhmvVWdP_U.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=olivero&amp;include=eJw9y2EKwCAIQOELFTtS6FYimIa5oNuPwdjP98GjZt7LvHGezlgPejuZ8KpuB4khSJ6xhZV-VlhMEGyah3MH3ylwlOamUfX6tgeAGyQX"></script>
 <script>
-  window.addEventListener('DOMContentLoaded', () => {
-    const search = new PagefindUI({
+  window.addEventListener("DOMContentLoaded", () => {
+
+    new PagefindUI({
       element: "#search",
       showSubResults: true,
       showImages: true,
       resetStyles: false,
     });
 
-    // Optional: show "no results" message like Drupal
-    document.addEventListener('pagefind:results', (e) => {
-      const info = document.getElementById('search-results-info');
-      if (!info) return;
+    // Default search.
+    setTimeout(() => {
+      const input = document.querySelector("#search .pagefind-ui__search-input");
 
-      if (e.detail.results.length === 0) {
-        info.innerHTML = "<em>Your search yielded no results.</em>";
-      } else {
-        info.innerHTML = "";
+      if (input) {
+        input.value = "best";
+        input.dispatchEvent(new Event("input", { bubbles: true }));
       }
-    });
+      console.log('1');
+    }, 100);
+
+    // Expand filters whenever results change.
+    setTimeout(() => {
+      document.querySelectorAll(
+          "#search .pagefind-ui__filter-panel details"
+        ).forEach(details => {
+          details.open = true;
+        });
+    }, 200);
+
   });
 </script>
   </body>
