@@ -3,6 +3,7 @@
 # =========================
 User-agent: *
 Disallow: /pagefind
+Disallow: /cdn-cgi/
 
 # =========================
 # BLOCK INTERNAL / SYSTEM PATHS
