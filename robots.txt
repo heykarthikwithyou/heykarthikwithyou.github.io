@@ -18,7 +18,6 @@ Disallow: /includes/
 # =========================
 # BLOCK USELESS / DUPLICATE PAGES
 # =========================
-Disallow: /search
 Disallow: /user
 Disallow: /admin
 Disallow: /node/add
