@@ -1,13 +1,41 @@
 <!DOCTYPE html>
-            <html lang="en">
-            <head>
-            <meta charset="UTF-8">
-            <meta name="robots" content="noindex, nofollow">
-            <link rel="canonical" href="https://thebestproducts.co.in/search">
-            <meta http-equiv="refresh" content="0;url=https://thebestproducts.co.in/search">
-            <title>Page Not Found</title>
-            </head>
-            <body>
-            <p>This page has been removed. Redirecting...</p>
-            </body>
-            </html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Page Not Found</title>
+</head>
+<body>
+
+<p>Searching for something similar...</p>
+
+<script>
+(function () {
+    // Get the current URL path
+    const path = window.location.pathname;
+
+    // Remove trailing slash and get the last URL segment
+    const segments = path.replace(/\/+$/, '').split('/');
+    let searchTerm = segments.pop() || '';
+
+    // Convert URL slug into readable words
+    searchTerm = decodeURIComponent(searchTerm)
+        .replace(/[-_.]+/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+
+    // If there is no search term, go to the normal search page
+    if (!searchTerm) {
+        window.location.replace('/search');
+        return;
+    }
+
+    // Send the search term to the search page
+    const searchUrl = '/search?q=' + encodeURIComponent(searchTerm);
+
+    window.location.replace(searchUrl);
+})();
+</script>
+
+</body>
+</html>

@@ -1038,15 +1038,37 @@
     //     input.dispatchEvent(new Event("input", { bubbles: true }));
     //   }
     // }, 100);
+    setTimeout(() => {
+      const params = new URLSearchParams(window.location.search);
+      const searchTerm = params.get('q');
 
-    // // Expand filters whenever results change.
-    // setTimeout(() => {
-    //   document.querySelectorAll(
-    //       "#search .pagefind-ui__filter-panel details"
-    //     ).forEach(details => {
-    //       details.open = true;
-    //     });
-    // }, 1000);
+      if (!searchTerm) {
+          return;
+      }
+
+      const searchInput = document.querySelector('.pagefind-ui__search-input');
+
+      if (!searchInput) {
+          return;
+      }
+
+      // Populate Pagefind search field
+      searchInput.value = searchTerm;
+
+      // Trigger PagefindUI search
+      searchInput.dispatchEvent(new Event('input', {
+          bubbles: true
+      }));
+    }, 1000);
+
+    // Expand filters whenever results change.
+    setTimeout(() => {
+      document.querySelectorAll(
+          "#search .pagefind-ui__filter-panel details"
+        ).forEach(details => {
+          details.open = true;
+        });
+    }, 3000);
 
   });
 </script>
