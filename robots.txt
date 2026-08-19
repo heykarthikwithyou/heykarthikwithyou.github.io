@@ -22,6 +22,7 @@ Allow: /articles/best-smart-tvs-india-2026-top-deals-across-every-budget/
 Allow: /articles/best-space-saving-essentials-small-rooms-2026-compact-budget-friendly-picks/
 Allow: /articles/best-study-essentials-sale-india-2026-best-deals-study-essentials/
 Allow: /articles/best-waterproof-bluetooth-speakers-every-budget-and-adventure-2026/
+Allow: /articles/dji-osmo-action-4-vs-insta360-x3-which-action-camera-should-you-buy/
 Allow: /articles/haier-592l-vs-samsung-653l-side-side-refrigerator-which-one-should-you-buy-india/
 Allow: /articles/samsung-653l-rs76cg8113slhl-vs-haier-602l-side-side-refrigerator-which-one-should-you-buy/
 Allow: /articles/samsung-galaxy-tab-s10-lite-vs-lenovo-idea-tab-smartchoice-which-tablet-offers-better/
@@ -132,7 +133,6 @@ Allow: /reviews/boat-rockerz-113-review-2026-best-budget-bluetooth-neckband-unde
 Allow: /reviews/bobo-bm4-jaw-grip-waterproof-mobile-holder-bike-phone-mount-navigation/
 Allow: /reviews/bodyband-4mm-eva-yoga-mat-review-2026-anti-slip-exercise-mat-carry-strap-yoga-fitness/
 Allow: /reviews/bodyband-adjustable-hand-grip-strengthener-forearm-finger-exerciser/
-Allow: /reviews/bodyband-push-board-handles-multi-position-home-workout-system/
 Allow: /reviews/bodyband-thermal-wear-men-set-review-2026-warm-comfortable-full-body-thermal-innerwear/
 Allow: /reviews/boldfit-adjustable-hand-grip-strengthener-review-2026-electronic-hand-gripper-counter-100kg/
 Allow: /reviews/boldfit-adjustable-skipping-rope-speed-jump-rope-cardio-workouts/
@@ -176,7 +176,7 @@ Allow: /reviews/dell-g15-intel-core-i5-13450hx-rtx-3050-review-2026-powerful-gam
 Allow: /reviews/delonghi-dedica-style-ec685w-espresso-machine-review-2026-compact-italian-coffee-maker-home/
 Allow: /reviews/dfc-element-steo-5-level-storage-shelf-engineered-wood-organizer/
 Allow: /reviews/disha-upsc-prelims-pyq-book-gs-csat-topic-wise-solved-papers-1995-2025/
-Allow: /reviews/dji-osmo-action-4-review-2026-best-4k-action-camera-travel-biking-adventure-recording/
+Allow: /reviews/dji-osmo-action-4-review-best-4k-action-camera-travel-biking-adventure-recording/
 Allow: /reviews/dji-osmo-action-6-standard-combo-review-2026-4k-action-camera-adventure-content-creation/
 Allow: /reviews/e-gate-atom-4x-smart-projector-native-1080p-400-iso-fully-automatic/
 Allow: /reviews/ecoflow-river-2-max-portable-power-station-review-2026-fast-charging-512wh-backup-power/
@@ -252,7 +252,7 @@ Allow: /reviews/indus-valley-super-smooth-cast-iron-kadai-review-2026-pre-season
 Allow: /reviews/indus-valley-triply-stainless-steel-5l-pressure-cooker-review-2026-versatile-pressure/
 Allow: /reviews/indus-valley-triply-stainless-steel-kadai-review-2026-premium-28cm-triply-kadai-healthy/
 Allow: /reviews/infinix-gt-30-5g-best-gaming-phone-under-rs20000/
-Allow: /reviews/insta360-x3-review-2026-best-57k-360-action-camera-travel-biking-creative-content/
+Allow: /reviews/insta360-x3-review-best-57k-360-action-camera-travel-biking-creative-content/
 Allow: /reviews/iqoo-15-review-2026-flagship-performance-snapdragon-8-elite-gen-5/
 Allow: /reviews/iqoo-15-review-2026-snapdragon-8-elite-gen-5-flagship-2k-samsung-oled-display/
 Allow: /reviews/iqoo-15r-review-2026-flagship-gaming-smartphone-massive-battery-144fps-performance/
@@ -529,7 +529,6 @@ Allow: /reviews/womens-roll-sleeve-v-neck-tunic-top-review-2026-casual-rayon-kur
 Allow: /reviews/wzatco-yuva-bolt-smart-projector-native-1080p-fully-automatic-hdmi-arc/
 Allow: /reviews/wzatco-yuva-go-pro-smart-projector-native-1080p-fully-automatic-rotatable-design/
 Allow: /reviews/wzatco-yuva-infinity-smart-projector-native-1080p-1200-ansi-google-tv/
-Allow: /reviews/wzatco-yuva-vibe-smart-projector-native-1080p-wifi-6-fully-automatic/
 Allow: /reviews/xiaomi-75-inch-x-pro-series-qled-4k-smart-google-tv-big-screen-premium-entertainment/
 Allow: /reviews/xiaomi-fx-pro-43-inch-qled-4k-fire-tv-review-2026-feature-packed-smart-tv-everyday/
 Allow: /reviews/xiaomi-pad-7-nano-texture-display-review-2026-best-32k-android-tablet-entertainment/
