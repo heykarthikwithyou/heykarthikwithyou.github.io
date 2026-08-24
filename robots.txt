@@ -22,6 +22,7 @@ Allow: /articles/best-study-essentials-sale-india-best-deals-study-essentials/
 Allow: /articles/best-waterproof-bluetooth-speakers-every-budget-and-adventure/
 Allow: /articles/dji-osmo-action-4-vs-insta360-x3-which-action-camera-should-you-buy/
 Allow: /articles/haier-592l-vs-samsung-653l-side-side-refrigerator-which-one-should-you-buy-india/
+Allow: /articles/pova-ai-buds-pro-review-indias-ai-earbuds-call-summaries-48db-anc-and-78-language/
 Allow: /articles/samsung-653l-rs76cg8113slhl-vs-haier-602l-side-side-refrigerator-which-one-should-you-buy/
 Allow: /articles/samsung-galaxy-tab-s10-lite-vs-lenovo-idea-tab-smartchoice-which-tablet-offers-better/
 Allow: /articles/seagate-expansion-4tb-vs-wd-my-passport-2tb-which-external-hard-drive-should-you-buy/
