@@ -23,6 +23,7 @@ Allow: /articles/best-waterproof-bluetooth-speakers-every-budget-and-adventure/
 Allow: /articles/dji-osmo-action-4-vs-insta360-x3-which-action-camera-should-you-buy/
 Allow: /articles/haier-592l-vs-samsung-653l-side-side-refrigerator-which-one-should-you-buy-india/
 Allow: /articles/lg-655-l-vs-haier-596-l-side-side-refrigerator-which-one-should-you-buy-india/
+Allow: /articles/livpure-fenix-90-cm-vs-inalsa-zylo-60-cm-power-features-and-value-compared/
 Allow: /articles/onida-qled-vs-xiaomi-x-series-4k-tv-which-43-inch-screen-deserves-your-living-room/
 Allow: /articles/pova-ai-buds-pro-review-indias-ai-earbuds-call-summaries-48db-anc-and-78-language/
 Allow: /articles/samsung-653l-rs76cg8113slhl-vs-haier-602l-side-side-refrigerator-which-one-should-you-buy/
