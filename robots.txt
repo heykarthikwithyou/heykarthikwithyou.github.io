@@ -22,6 +22,7 @@ Allow: /articles/best-study-essentials-sale-india-best-deals-study-essentials/
 Allow: /articles/best-waterproof-bluetooth-speakers-every-budget-and-adventure/
 Allow: /articles/dji-osmo-action-4-vs-insta360-x3-which-action-camera-should-you-buy/
 Allow: /articles/haier-592l-vs-samsung-653l-side-side-refrigerator-which-one-should-you-buy-india/
+Allow: /articles/krishna-costume-kids-how-pick-perfect-little-kanha-look/
 Allow: /articles/lg-655-l-vs-haier-596-l-side-side-refrigerator-which-one-should-you-buy-india/
 Allow: /articles/livpure-fenix-90-cm-vs-inalsa-zylo-60-cm-power-features-and-value-compared/
 Allow: /articles/onida-qled-vs-xiaomi-x-series-4k-tv-which-43-inch-screen-deserves-your-living-room/
