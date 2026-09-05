@@ -33,6 +33,7 @@ Allow: /articles/pova-ai-buds-pro-review-indias-ai-earbuds-call-summaries-48db-a
 Allow: /articles/samsung-653l-rs76cg8113slhl-vs-haier-602l-side-side-refrigerator-which-one-should-you-buy/
 Allow: /articles/samsung-galaxy-tab-s10-lite-vs-lenovo-idea-tab-smartchoice-which-tablet-offers-better/
 Allow: /articles/seagate-expansion-4tb-vs-wd-my-passport-2tb-which-external-hard-drive-should-you-buy/
+Allow: /articles/sonos-vs-bose-vs-jbl-vs-marshall-which-speaker-worth-your-money/
 Allow: /articles/wzatco-yuva-go-pro-vs-e-gate-atom-4x-which-native-1080p-smart-projector-better-india/
 Allow: /contact-us/
 Allow: /disclaimer/
