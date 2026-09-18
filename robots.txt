@@ -406,6 +406,7 @@ Allow: /reviews/nyrwana-queen-everything-coffee-mug-review-premium-ceramic-gift-
 Allow: /reviews/oneplus-15-review-2026-snapdragon-8-elite-gen-5-flagship-7300mah-battery-165hz-display/
 Allow: /reviews/oneplus-nord-6-review-2026-powerful-gaming-phone-massive-9000mah-battery/
 Allow: /reviews/oneplus-nord-6-review-2026-snapdragon-8s-gen-4-powerhouse-massive-9000mah-battery/
+Allow: /reviews/oneplus-nord-buds-3-pro-true-wireless-earbuds-49db-anc-starry-black/
 Allow: /reviews/oneplus-nord-ce6-review-2026-massive-battery-smartphone-smooth-amoled-gaming-experience/
 Allow: /reviews/oneplus-pad-go-2-review-2026-large-28k-120hz-5g-tablet-entertainment-productivity-learning/
 Allow: /reviews/oneplus-pad-lite-review-2026-budget-android-tablet-massive-9340mah-battery/
