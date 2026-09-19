@@ -36,6 +36,7 @@ Allow: /articles/native-m1-vs-kent-supreme-plus-which-ro-water-purifier-makes-mo
 Allow: /articles/onida-55ufd-vs-coocaa-55mini75q-which-55-inch-4k-tv-better/
 Allow: /articles/onida-qled-vs-xiaomi-x-series-4k-tv-which-43-inch-screen-deserves-your-living-room/
 Allow: /articles/pova-ai-buds-pro-review-indias-ai-earbuds-call-summaries-48db-anc-and-78-language/
+Allow: /articles/samsung-12-kg-vs-bosch-12-kg-5-star-front-load-washing-machine-which-one-should-you-buy/
 Allow: /articles/samsung-653l-rs76cg8113slhl-vs-haier-602l-side-side-refrigerator-which-one-should-you-buy/
 Allow: /articles/samsung-galaxy-tab-s10-lite-vs-lenovo-idea-tab-smartchoice-which-tablet-offers-better/
 Allow: /articles/seagate-expansion-4tb-vs-wd-my-passport-2tb-which-external-hard-drive-should-you-buy/
@@ -172,6 +173,7 @@ Allow: /reviews/boldfit-winter-bandana-neck-warmer-review-2026-thermal-fleece-pr
 Allow: /reviews/bookmycostume-cotton-national-hero-freedom-fighter-kids-fancy-dress-costume-review-green-5/
 Allow: /reviews/bookmycostume-cotton-woven-janmashtami-theme-three-fourth-sleeves-lord-krishna-costume-set/
 Allow: /reviews/bookmycostume-independence-republic-day-patriotic-costume-accessories-review-tricolor-props/
+Allow: /reviews/bosch-12-kg-5-star-front-load-washing-machine-wga27400in/
 Allow: /reviews/bosch-13-place-setting-free-standing-dishwasher-indian-utensils-sms66gi01i/
 Allow: /reviews/bosch-9kg-front-load-washing-machine-5-star-ai-activewater-steam-wash/
 Allow: /reviews/bosch-maxflex-convert-335l-triple-door-refrigerator-review-2026-8-1-convertible-frost-free/
@@ -477,6 +479,7 @@ Allow: /reviews/rytras-womens-cotton-printed-line-kurta-palazzo-pant-set-review-
 Allow: /reviews/safari-persia-65cm-medium-polycarbonate-luggage-review-2026-8-wheel-check-suitcase-hassle/
 Allow: /reviews/safari-thorium-neo-large-check-trolley-bag-review-2026-premium-polycarbonate-hard-shell/
 Allow: /reviews/sakhwala-women-wide-leg-track-pants-review-2026-high-waist-drawstring-lounge-casual-wear/
+Allow: /reviews/samsung-12-kg-5-star-ai-control-front-load-washing-machine-ww12dg6b24astl/
 Allow: /reviews/samsung-28l-convection-microwave-oven-multi-function-cooking-appliance/
 Allow: /reviews/samsung-330l-bespoke-ai-convertible-refrigerator-review-2026-smart-5-1-convertible/
 Allow: /reviews/samsung-43-inch-crystal-uhd-4k-vision-ai-smart-tv-review-2026-smart-4k-tv-vision-ai-crystal/
