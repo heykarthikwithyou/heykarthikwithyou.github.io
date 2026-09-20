@@ -104,6 +104,7 @@ Allow: /reviews/allextreme-disc-lock-alarm-110db-anti-theft-security-lock-bikes-
 Allow: /reviews/alyne-saree-shapewear-petticoat-review-2026-comfortable-saree-shaper-slim-elegant-draping/
 Allow: /reviews/amayra-womens-pure-cotton-kurta-set-review-2026-straight-kurta-palazzo-pants-dupatta/
 Allow: /reviews/amayra-womens-pure-cotton-line-kurta-set-palazzo-pants-dupatta-review-2026-comfortable/
+Allow: /reviews/amayra-womens-pure-cotton-line-kurta-set-palazzo-pants-dupatta/
 Allow: /reviews/amazfit-balance-46mm-amoled-smartwatch-advanced-fitness-health-tracker/
 Allow: /reviews/amazfit-bip-6-smartwatch-46mm-large-amoled-display-gps-14-day-battery/
 Allow: /reviews/amazfit-t-rex-3-rugged-smartwatch-48mm-military-grade-outdoor-watch/
@@ -258,6 +259,7 @@ Allow: /reviews/haier-190l-5-star-single-door-refrigerator-review-2026-best-budg
 Allow: /reviews/haier-592l-side-side-refrigerator-3-door-water-dispenser-inverter/
 Allow: /reviews/haier-596l-smart-sense-ai-side-side-refrigerator-review-convertible-frost-free-refrigerator/
 Allow: /reviews/haier-602l-side-side-refrigerator-review-2026-best-large-convertible-fridge-indian-families/
+Allow: /reviews/haier-7-kg-5-star-fully-automatic-top-load-washing-machine-hwm70-aen/
 Allow: /reviews/haier-8kg-front-load-washing-machine-ai-dbt-puristeam-5-star/
 Allow: /reviews/hamdard-roghan-e-badam-shireen-sweet-almond-oil-review-cold-pressed-natural-almond-oil-hair/
 Allow: /reviews/havells-fab-bldc-ceiling-fan-1200mm-review-energy-saving-smart-fan-reverse-rotation-silent/
