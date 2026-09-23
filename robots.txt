@@ -37,6 +37,7 @@ Allow: /articles/onida-55ufd-vs-coocaa-55mini75q-which-55-inch-4k-tv-better/
 Allow: /articles/onida-qled-vs-xiaomi-x-series-4k-tv-which-43-inch-screen-deserves-your-living-room/
 Allow: /articles/pova-ai-buds-pro-review-indias-ai-earbuds-call-summaries-48db-anc-and-78-language/
 Allow: /articles/samsung-12-kg-vs-bosch-12-kg-5-star-front-load-washing-machine-which-one-should-you-buy/
+Allow: /articles/samsung-32-inch-h4550-vs-lg-32-inch-lb650-ai-which-smart-tv-better-between-rs15000-and/
 Allow: /articles/samsung-653l-rs76cg8113slhl-vs-haier-602l-side-side-refrigerator-which-one-should-you-buy/
 Allow: /articles/samsung-galaxy-tab-s10-lite-vs-lenovo-idea-tab-smartchoice-which-tablet-offers-better/
 Allow: /articles/seagate-expansion-4tb-vs-wd-my-passport-2tb-which-external-hard-drive-should-you-buy/
@@ -333,6 +334,7 @@ Allow: /reviews/lenovo-thinkbook-16-ryzen-5-laptop-review-2026-powerful-thin-lig
 Allow: /reviews/lg-15-ton-5-star-smart-inverter-ac-review-2026-powerful-cooling-maximum-energy-savings/
 Allow: /reviews/lg-15-ton-split-ac-3-star-ai-convertible-6-1-smart-inverter/
 Allow: /reviews/lg-276l-frost-free-double-door-convertible-refrigerator-review-2026-smart-inverter/
+Allow: /reviews/lg-32-inch-lb650-ai-series-hd-smart-webos-led-tv-32lb650bpla/
 Allow: /reviews/lg-34u530a-ultrawide-monitor-review-2026-stylish-34-inch-ultrawide-monitor-work/
 Allow: /reviews/lg-55-inch-nu87-ai-series-nano-4k-smart-tv-review-2026-webos-ai-tv-nano-color-technology/
 Allow: /reviews/lg-65-inch-nu87-ai-series-4k-smart-tv-ai-powered-entertainment-experience/
@@ -483,6 +485,7 @@ Allow: /reviews/safari-thorium-neo-large-check-trolley-bag-review-2026-premium-p
 Allow: /reviews/sakhwala-women-wide-leg-track-pants-review-2026-high-waist-drawstring-lounge-casual-wear/
 Allow: /reviews/samsung-12-kg-5-star-ai-control-front-load-washing-machine-ww12dg6b24astl/
 Allow: /reviews/samsung-28l-convection-microwave-oven-multi-function-cooking-appliance/
+Allow: /reviews/samsung-32-inch-hd-smart-led-tv-ua32h4550fuxxl/
 Allow: /reviews/samsung-330l-bespoke-ai-convertible-refrigerator-review-2026-smart-5-1-convertible/
 Allow: /reviews/samsung-43-inch-crystal-uhd-4k-vision-ai-smart-tv-review-2026-smart-4k-tv-vision-ai-crystal/
 Allow: /reviews/samsung-65-inch-oled-4k-vision-ai-smart-tv-qa65s85haelxl-review-2026-premium-oled/
