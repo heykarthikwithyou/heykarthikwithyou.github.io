@@ -224,6 +224,12 @@
   <priority>1.0</priority>
  </url>
  <url>
+  <loc>https://thebestproducts.co.in/articles/lg-185-l-vs-haier-190-l-single-door-refrigerator-which-one-should-you-buy/</loc>
+  <lastmod>2026-09-28T08:35:32+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.0</priority>
+ </url>
+ <url>
   <loc>https://thebestproducts.co.in/about-us/</loc>
   <lastmod>2026-04-14T08:25:28+05:30</lastmod>
   <changefreq>weekly</changefreq>
@@ -3286,6 +3292,18 @@
  <url>
   <loc>https://thebestproducts.co.in/reviews/lg-32-inch-lb650-ai-series-hd-smart-webos-led-tv-32lb650bpla/</loc>
   <lastmod>2026-09-23T10:39:09+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <url>
+  <loc>https://thebestproducts.co.in/reviews/lg-185-l-4-star-smart-inverter-single-door-refrigerator-gld1945zose/</loc>
+  <lastmod>2026-09-28T08:19:13+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <url>
+  <loc>https://thebestproducts.co.in/reviews/haier-190-l-3-star-direct-cool-single-door-refrigerator-hed-203tdsa-n/</loc>
+  <lastmod>2026-09-28T08:21:58+05:30</lastmod>
   <changefreq>daily</changefreq>
   <priority>0.5</priority>
  </url>

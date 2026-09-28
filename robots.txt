@@ -29,6 +29,7 @@ Allow: /articles/dji-osmo-action-4-vs-insta360-x3-which-action-camera-should-you
 Allow: /articles/f-gear-hunter-75l-vs-wildcraft-45l-rucksack-which-one-should-you-buy/
 Allow: /articles/haier-592l-vs-samsung-653l-side-side-refrigerator-which-one-should-you-buy-india/
 Allow: /articles/krishna-costume-kids-how-pick-perfect-little-kanha-look/
+Allow: /articles/lg-185-l-vs-haier-190-l-single-door-refrigerator-which-one-should-you-buy/
 Allow: /articles/lg-65-inch-nu87-vs-tcl-65-inch-qd-mini-led-which-65-inch-4k-tv-should-you-buy/
 Allow: /articles/lg-655-l-vs-haier-596-l-side-side-refrigerator-which-one-should-you-buy-india/
 Allow: /articles/livpure-fenix-90-cm-vs-inalsa-zylo-60-cm-power-features-and-value-compared/
@@ -256,6 +257,7 @@ Allow: /reviews/grand-pitstop-paddock-stand-wheel-roller-easy-chain-cleaning-bik
 Allow: /reviews/grand-pitstop-universal-tubeless-tyre-puncture-repair-kit-emergency-flat-tyre-fix-tool/
 Allow: /reviews/green-soul-cloud-recliner-sofa-review-2026-most-comfortable-single-seater-india/
 Allow: /reviews/green-soul-monster-ultimate-series-t-gaming-office-chair-review-premium-ergonomic-chair-4d/
+Allow: /reviews/haier-190-l-3-star-direct-cool-single-door-refrigerator-hed-203tdsa-n/
 Allow: /reviews/haier-190l-5-star-single-door-refrigerator-review-2026-best-budget-fridge-small-indian/
 Allow: /reviews/haier-592l-side-side-refrigerator-3-door-water-dispenser-inverter/
 Allow: /reviews/haier-596l-smart-sense-ai-side-side-refrigerator-review-convertible-frost-free-refrigerator/
@@ -333,6 +335,7 @@ Allow: /reviews/lenovo-tab-101-review-2026-budget-android-tablet-dolby-atmos-met
 Allow: /reviews/lenovo-thinkbook-16-ryzen-5-laptop-review-2026-powerful-thin-light-laptop-work-coding/
 Allow: /reviews/lg-15-ton-5-star-smart-inverter-ac-review-2026-powerful-cooling-maximum-energy-savings/
 Allow: /reviews/lg-15-ton-split-ac-3-star-ai-convertible-6-1-smart-inverter/
+Allow: /reviews/lg-185-l-4-star-smart-inverter-single-door-refrigerator-gld1945zose/
 Allow: /reviews/lg-276l-frost-free-double-door-convertible-refrigerator-review-2026-smart-inverter/
 Allow: /reviews/lg-32-inch-lb650-ai-series-hd-smart-webos-led-tv-32lb650bpla/
 Allow: /reviews/lg-34u530a-ultrawide-monitor-review-2026-stylish-34-inch-ultrawide-monitor-work/
