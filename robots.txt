@@ -148,6 +148,7 @@ Allow: /reviews/avzeego-modular-storage-organizer-1-layer-stackable-space-saving
 Allow: /reviews/ayuzera-himalayan-sea-buckthorn-pulp-concentrate-review-2026-natural-vitamin-c-antioxidant/
 Allow: /reviews/bahumaan-pure-cotton-nighty-review-comfortable-floral-cotton-nighty-daily-wear/
 Allow: /reviews/bajaj-dmh-90-neo-desert-air-cooler-review-2026-high-air-throw-cooler-large-rooms/
+Allow: /reviews/beauty-joseon-ground-rice-and-honey-glow-mask-150ml-review/
 Allow: /reviews/bella-vita-luxury-perfume-gift-set-women-4x20ml-floral-fruity-collection/
 Allow: /reviews/bergner-tripro-3-piece-tri-ply-cookware-set-review-2026-worth-buying-indian-kitchens/
 Allow: /reviews/beyond-appliances-cube-pro-plug-play-ductless-kitchen-chimney-review-2026-unique-chimney/
