@@ -565,6 +565,7 @@ Allow: /water-purifiers/kent-supreme-plus-alkalinecopper-ro-water-purifier-rouvu
 Allow: /water-purifiers/native-m1-vs-kent-supreme-plus-which-ro-water-purifier-makes-more-sense-your-home/
 Allow: /water-purifiers/native-m1-water-purifier-urban-company-10-stage-rouvcopperalkalinemineraliser/
 Allow: /women-clothing/
+Allow: /women-clothing/alan-jones-clothing-womens-solid-zipper-hooded-sweatshirt-review/
 Allow: /women-clothing/allen-solly-womens-polo-neck-t-shirt-review-2026-soft-touch-regular-fit-casual-tee/
 Allow: /women-clothing/alyne-saree-shapewear-petticoat-review-2026-comfortable-saree-shaper-slim-elegant/
 Allow: /women-clothing/amayra-womens-pure-cotton-kurta-set-review-2026-straight-kurta-palazzo-pants-dupatta/
@@ -573,6 +574,8 @@ Allow: /women-clothing/amayra-womens-pure-cotton-line-kurta-set-palazzo-pants-du
 Allow: /women-clothing/amazon-brand-symbol-womens-line-one-piece-midi-length-denim-dress/
 Allow: /women-clothing/amazon-symbol-womens-cotton-stretch-v-neck-t-shirt-review-2026-comfortable-everyday/
 Allow: /women-clothing/anni-womens-rayon-viscose-straight-kurta-palazzo-set-review-2026-sleeveless-ethnic/
+Allow: /women-clothing/arayna-womens-cotton-printed-kurta-set-pants-dupatta-review/
+Allow: /women-clothing/arayna-womens-pure-cotton-paisley-printed-tunic-top-review/
 Allow: /women-clothing/bahumaan-pure-cotton-nighty-review-comfortable-floral-cotton-nighty-daily-wear/
 Allow: /women-clothing/blissclub-ultimate-flare-pants-lite-regular-women-upto-54-ft/
 Allow: /women-clothing/blissclub-ultimate-flare-pants-lite-review-2026-comfortable-high-waist-flared-pants/
@@ -602,6 +605,7 @@ Allow: /women-clothing/london-hills-womens-graphic-printed-t-shirt-review-2026-l
 Allow: /women-clothing/louis-luxe-womens-korean-nightsuit-review-2026-stylish-full-sleeve-pyjama-set/
 Allow: /women-clothing/mokosh-womens-silk-anarkali-suit-review-2026-floral-thread-sequin-embroidered-kurta/
 Allow: /women-clothing/mokosh-womens-silk-embroidered-anarkali-kurta-set-review-2026-3-piece-festive-ethnic/
+Allow: /women-clothing/mokosh-womens-silk-embroidery-anarkali-kurta-pant-dupatta-review/
 Allow: /women-clothing/nermosa-women-cotton-block-printed-kurta-set-review-2026-kurta-pant-dupatta-ethnic/
 Allow: /women-clothing/nermosa-women-printed-anarkali-kurta-set-review-2026-cotton-anarkali-suit-pants/
 Allow: /women-clothing/nermosa-womens-embroidery-solid-line-kurta-pant-set-dupatta-review-2026-elegant/
