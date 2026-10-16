@@ -3362,6 +3362,18 @@
   <priority>0.5</priority>
  </url>
  <url>
+  <loc>https://thebestproducts.co.in/irons/orient-electric-fabrijoy-1000w-dry-iron-review/</loc>
+  <lastmod>2026-10-16T08:08:05+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <url>
+  <loc>https://thebestproducts.co.in/grooming/philips-bt3325-beard-trimmer-review/</loc>
+  <lastmod>2026-10-16T08:09:57+05:30</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <url>
   <loc>https://thebestproducts.co.in/amazon/</loc>
   <lastmod>2026-08-29T08:40:40+05:30</lastmod>
   <changefreq>weekly</changefreq>
@@ -3760,6 +3772,12 @@
  <url>
   <loc>https://thebestproducts.co.in/dishwashers/</loc>
   <lastmod>2026-09-01T08:06:43+05:30</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+ </url>
+ <url>
+  <loc>https://thebestproducts.co.in/irons/</loc>
+  <lastmod>2026-10-16T08:08:05+05:30</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
  </url>

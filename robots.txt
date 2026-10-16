@@ -183,6 +183,7 @@ Allow: /grooming/bella-vita-luxury-perfume-gift-set-women-4x20ml-floral-fruity-c
 Allow: /grooming/loreal-professionnel-absolut-repair-hair-mask-250ml-deep-repair-damaged-hair/
 Allow: /grooming/philips-bg547515-body-trimmer-review-2026-safe-comfortable-grooming-sensitive-areas/
 Allow: /grooming/philips-bhh880-hair-straightener-brush-review-2026-fast-hair-straightening-keratin/
+Allow: /grooming/philips-bt3325-beard-trimmer-review/
 Allow: /grooming/philips-mg3927-9-1-trimmer-review-2026-versatile-grooming-kit-beard-hair-body/
 Allow: /grooming/philips-mg7931-16-1-trimmer-review-2026-premium-all-one-grooming-kit-men/
 Allow: /grooming/tash-hair-4-1-airstyler-review-2026-all-one-hair-styling-drying-tool/
@@ -216,6 +217,8 @@ Allow: /home/tex-ro-3-layer-expandable-clothes-drying-stand-review-2026-foldable
 Allow: /home/tex-ro-plastic-wardrobe-4xl-portable-storage-cupboard/
 Allow: /home/ucravo-stackable-desk-organizer-drawers-multi-compartment-storage/
 Allow: /home/zolmix-premium-bathroom-cabinet-mirror-wall-mounted-storage-organizer/
+Allow: /irons/
+Allow: /irons/orient-electric-fabrijoy-1000w-dry-iron-review/
 Allow: /kids-clothing/
 Allow: /kids-clothing/army-costume-kids-review-military-soldier-fancy-dress-uniform-boys-girls/
 Allow: /kids-clothing/best-independence-day-costumes-kids-patriotic-outfits-school-functions-fancy-dress/
