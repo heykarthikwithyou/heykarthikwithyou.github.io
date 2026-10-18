@@ -2,8 +2,8 @@
 <html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" style="--color--primary-hue:0;--color--primary-saturation:0%;--color--primary-lightness:0">
   <head>
     <meta charset="utf-8" />
-<meta name="robots" content="noindex, follow" />
-<link rel="canonical" href="https://thebestproducts.co.in" />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://thebestproducts.co.in/search/" />
 <meta property="og:image" content="https://thebestproducts.co.in/sites/default/files/thebestproducts-co-in.png" />
 <meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
 <meta name="MobileOptimized" content="width" />
@@ -31,6 +31,7 @@
 <link rel="icon" href="/sites/default/files/585536917_122195533454569453_8122902864093147666_n.jpg" type="image/png" />
 
     <title>Search | TheBestProducts</title>
+    <meta name="description" content="Search our platform to find products, articles, and resources instantly. Enter your keywords above to explore our full directory."
 <link href="/core/themes/olivero/fonts/metropolis/Metropolis-Regular.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
 <link href="/core/themes/olivero/fonts/metropolis/Metropolis-SemiBold.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
 <link href="/core/themes/olivero/fonts/metropolis/Metropolis-Bold.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
@@ -56,6 +57,26 @@
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
 <script src="/pagefind/pagefind-ui.js"></script>
 <style>
+  .path-search  #block-olivero-page-title h1 {
+      border-bottom: 5px solid;
+      border-color: #f59e0b;
+      display: block;
+      text-align: center;
+      font-size: 1.75rem;
+      margin: 30px auto;
+      line-height: 2;
+  }
+  .path-search  #block-olivero-page-title h1 {
+      margin-top: 15px;
+  }
+  .path-search .title-desc {
+    font-size: 1.125rem;
+    line-height: var(--sp2);
+    color: var(--color--gray-20);
+    font-family: var(--font-serif);
+    margin-top: 45px;
+    text-align: center;
+  }
   .main-content__container.container {
     padding-block-start: 45px;
   }
@@ -191,6 +212,22 @@
 
             
                   </li>
+
+        <li class="primary-nav__menu-item primary-nav__menu-item--link primary-nav__menu-item--level-1">
+                              
+                      <a href="/reviews/" class="primary-nav__menu-link primary-nav__menu-link--link primary-nav__menu-link--level-1" data-drupal-selector="primary-nav-menu-link-has-children" data-drupal-link-system-path="reviews">            <span class="primary-nav__menu-link-inner primary-nav__menu-link-inner--level-1">Reviews</span>
+          </a>
+
+            
+                  </li>
+
+        <li class="primary-nav__menu-item primary-nav__menu-item--link primary-nav__menu-item--level-1">
+                              
+                      <a href="/search/" class="primary-nav__menu-link primary-nav__menu-link--link primary-nav__menu-link--level-1" data-drupal-selector="primary-nav-menu-link-has-children">            <span class="primary-nav__menu-link-inner primary-nav__menu-link-inner--level-1">Search</span>
+          </a>
+
+            
+                  </li>
       
                           
         
@@ -227,6 +264,8 @@
 
   <h1 class="title page-title">Search</h1>
 
+  <p class="title-desc">Find the best products in India before you buy. Use this search page to instantly filter through our detailed comparisons, expert evaluations, and buying guides. Simply enter a product category, brand name, or model above to access transparent insights, pros and cons, and real-world value breakdowns tailored for everyday Indian shoppers.</p>
+
 
   
 </div>
@@ -250,7 +289,9 @@
             </div>
           </div>
         </div>
-        <div id="search-results-info" class="empty-search-results-text"></div>
+        <div id="search-results-info" class="empty-search-results-text">
+          <p class="">Results will appear here once you enter a query.</p>
+        </div>
 
     </div>
   </div>
@@ -442,55 +483,43 @@
 <script src="/sites/default/files/js/js_Vc6HLAhU6pBaBKKjoVtzp7KtrE76HpR1_UhmvVWdP_U.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=olivero&amp;include=eJw9y2EKwCAIQOELFTtS6FYimIa5oNuPwdjP98GjZt7LvHGezlgPejuZ8KpuB4khSJ6xhZV-VlhMEGyah3MH3ylwlOamUfX6tgeAGyQX"></script>
 <script>
   window.addEventListener("DOMContentLoaded", () => {
-
-    new PagefindUI({
+    // 1. Initialize Pagefind UI
+    const searchUI = new PagefindUI({
       element: "#search",
       showSubResults: true,
       showImages: true,
       resetStyles: false,
+      translations: {
+        placeholder: "Type something to search",
+      }
     });
 
-    // // Default search.
-    // setTimeout(() => {
-    //   const input = document.querySelector("#search .pagefind-ui__search-input");
+    const searchContainer = document.querySelector("#search");
+    if (!searchContainer) return;
 
-    //   if (input) {
-    //     input.value = "best";
-    //     input.dispatchEvent(new Event("input", { bubbles: true }));
-    //   }
-    // }, 100);
-    setTimeout(() => {
-      const params = new URLSearchParams(window.location.search);
-      const searchTerm = params.get('q');
+    const searchInput = searchContainer.querySelector('.pagefind-ui__search-input');
 
-      if (!searchTerm) {
-          return;
-      }
-
-      const searchInput = document.querySelector('.pagefind-ui__search-input');
-
-      if (!searchInput) {
-          return;
-      }
-
-      // Populate Pagefind search field
-      searchInput.value = searchTerm;
-
-      // Trigger PagefindUI search
-      searchInput.dispatchEvent(new Event('input', {
-          bubbles: true
-      }));
-    }, 1000);
-
-    // Expand filters whenever results change.
-    setTimeout(() => {
-      document.querySelectorAll(
-          "#search .pagefind-ui__filter-panel details"
-        ).forEach(details => {
+    // 2. Automatically watch for and expand filters when they appear
+    const observer = new MutationObserver(() => {
+      const filters = searchContainer.querySelectorAll(".pagefind-ui__filter-panel details");
+      if (filters.length > 0) {
+        filters.forEach(details => {
           details.open = true;
         });
-    }, 3000);
+      }
+    });
 
+    // Start watching the search container for UI changes (like results populating)
+    observer.observe(searchContainer, { childList: true, subtree: true });
+
+    // 3. Instantly handle URL search params if present
+    const params = new URLSearchParams(window.location.search);
+    const searchTerm = params.get('q');
+
+    if (searchTerm && searchInput) {
+      searchInput.value = searchTerm;
+      searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+    }
   });
 </script>
   </body>

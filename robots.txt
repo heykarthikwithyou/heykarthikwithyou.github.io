@@ -122,6 +122,7 @@ Allow: /data-storage/western-digital-wd-2tb-my-passport-portable-hdd-review-comp
 Allow: /disclaimer/
 Allow: /dishwashers/
 Allow: /dishwashers/bosch-13-place-setting-free-standing-dishwasher-indian-utensils-sms66gi01i/
+Allow: /egg-boilers/
 Allow: /fan/
 Allow: /fan/atomberg-renesa-enzel-1200mm-bldc-ceiling-fan-review-2026-silent-power-saving-premium-ceiling/
 Allow: /fan/crompton-surebreeze-sea-sapphira-1200mm-ceiling-fan-review-2026-high-speed-fan-strong-air/
@@ -247,8 +248,10 @@ Allow: /kids-play/ranger-folding-kick-scooter-review-2026-adjustable-lightweight
 Allow: /kids-play/solimo-penguin-2-1-kids-slide-review-it-worth-buying-toddlers/
 Allow: /kids-play/wishmaster-army-green-4x4-electric-ride-jeep-review-2026-best-kids-road-battery-car/
 Allow: /kitchen/
+Allow: /kitchen/5-best-egg-boilers-india-amazon-basics-agaro-themisto-mr-tru-and-milton-compared/
 Allow: /kitchen/agaro-elite-rechargeable-mini-chopper-compact-powerful-kitchen-helper/
-Allow: /kitchen/amazon-basics-electric-egg-boiler-quick-hassle-free-egg-cooking/
+Allow: /kitchen/agaro-grand-egg-boiler-and-poacher-review/
+Allow: /kitchen/amazon-basics-350w-electric-egg-boiler-review/
 Allow: /kitchen/bergner-tripro-3-piece-tri-ply-cookware-set-review-2026-worth-buying-indian-kitchens/
 Allow: /kitchen/cello-tropical-lagoon-dazzle-series-18-piece-opalware-dinner-set-review-premium-dinner-set/
 Allow: /kitchen/delonghi-dedica-style-ec685w-espresso-machine-review-2026-compact-italian-coffee-maker-home/
@@ -268,10 +271,13 @@ Allow: /kitchen/indus-valley-triply-stainless-steel-kadai-review-2026-premium-28
 Allow: /kitchen/kuvings-b1700-cold-press-juicer-review-2026-premium-slow-juicer-healthy-living/
 Allow: /kitchen/l-livilon-wall-mount-kitchen-utensil-rack-review-2026-stainless-steel-wall-mounted-dish/
 Allow: /kitchen/milton-cryo-fridge-storage-boxes-set-6-pcs-stackable-smart-kitchen-organizer/
+Allow: /kitchen/milton-xpress-egg-boiler-review/
+Allow: /kitchen/mr-tru-smart-instant-egg-boiler-review/
 Allow: /kitchen/necavu-cotton-fridge-bags-set-6-eco-friendly-vegetable-storage-solution/
 Allow: /kitchen/qlect-portable-blender-usb-rechargeable-smoothie-maker-go/
 Allow: /kitchen/radiant-dish-drainer-basket-review-2026-lightweight-space-saving-kitchen-drying-rack/
 Allow: /kitchen/tex-ro-stainless-steel-dish-drying-rack-review-2026-compact-efficient-kitchen-drainer/
+Allow: /kitchen/themisto-th-611-350w-egg-boiler-review/
 Allow: /laptop/
 Allow: /laptop/acer-aspire-lite-intel-core-i5-12450h-review-2026-powerful-thin-light-laptop-productivity/
 Allow: /laptop/asus-tuf-a15-2026-review-budget-gaming-laptop-ryzen-7-rtx-3050-performance/
